@@ -45,7 +45,7 @@ Analysis was based on a single unified dataset with 500 contracts, including the
 
 Preprocessing included: Standardizing numeric fields, validating contract IDs, labeling contracts as Good or Bad, and preparing measures for visualization in Power BI.
 
-<img width="940" height="627" alt="Dashboard Screenshot Placeholder" src="ADD_YOUR_IMAGE_HERE" />
+<img src="Project%202%20-%20Municipality%20Risk%20Assessment/Images/Table_Info.PNG" width="800">
 
 ## Executive Summary
 
