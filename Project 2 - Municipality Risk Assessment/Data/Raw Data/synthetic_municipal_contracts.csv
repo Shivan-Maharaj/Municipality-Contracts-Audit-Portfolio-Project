@@ -1,0 +1,501 @@
+contract_id,department,vendor,approved_budget,contract_value,deviation_flag,mbd_submitted,project_phase,status,risk_score,irregular_flag,irregular_amount
+C0001,Water & Sanitation,Reeves PLC,49748910,51712170,Y,Y,Completed,Delayed,3,Y,1963260
+C0002,Electricity,Clark-Cruz,48240618,45031818,Y,Y,Planning,Cancelled,2,Y,0
+C0003,Water & Sanitation,"Sherman, Freeman and Tyler",41059284,46519226,N,Y,Completed,Cancelled,2,Y,5459942
+C0004,Water & Sanitation,"Lee, Roberts and Lee",49618868,51834909,Y,N,Execution,On track,3,Y,2216041
+C0005,Water & Sanitation,Harris Inc,39397498,33716282,N,Y,Planning,On track,0,N,0
+C0006,Waste Management,"Chavez, Reed and Cox",12748637,21605227,N,Y,Planning,Cancelled,2,Y,8856590
+C0007,Electricity,Guzman-Miller,2528388,2195170,Y,Y,Completed,Cancelled,2,Y,0
+C0008,Waste Management,Gonzalez PLC,3485357,3212960,Y,Y,Planning,Delayed,2,Y,0
+C0009,Waste Management,"Long, Haney and Perry",11492366,11998014,N,Y,Planning,On track,1,Y,505648
+C0010,Housing,Paul-Rosales,1970928,2099055,N,Y,Execution,On track,1,Y,128127
+C0011,Electricity,Mcconnell Ltd,22435235,26649331,N,Y,Execution,On track,1,Y,4214096
+C0012,Water & Sanitation,Clark-Ward,18148957,19798856,N,Y,Planning,Delayed,2,Y,1649899
+C0013,Roads & Transport,"Chavez, Reed and Cox",22473627,32817434,N,Y,Execution,On track,1,Y,10343807
+C0014,Housing,Frye-Weaver,2730708,3238898,N,Y,Planning,Delayed,2,Y,508190
+C0015,Water & Sanitation,Jimenez-Roberts,22957742,18509784,N,Y,Execution,Cancelled,1,N,0
+C0016,Waste Management,"Fowler, Nelson and Oliver",23817335,32369518,N,Y,Completed,On track,1,Y,8552183
+C0017,Water & Sanitation,Reed-White,49683876,52686312,N,Y,Completed,On track,1,Y,3002436
+C0018,Roads & Transport,Harris Inc,12010049,17974895,N,Y,Planning,On track,1,Y,5964846
+C0019,Housing,"Long, Haney and Perry",39170421,38735079,Y,Y,Execution,Cancelled,2,Y,0
+C0020,Roads & Transport,Berg-Alvarez,46421408,41519027,N,N,Execution,Delayed,2,Y,0
+C0021,Electricity,"Cunningham, Fisher and Smith",32474990,26310186,Y,N,Execution,Cancelled,3,Y,0
+C0022,Water & Sanitation,"Chavez, Reed and Cox",49107334,50350251,N,N,Completed,On track,2,Y,1242917
+C0023,Waste Management,Martin LLC,45916038,50609596,N,N,Planning,On track,2,Y,4693558
+C0024,Housing,Clark-Ward,36613466,42185564,N,Y,Execution,Cancelled,2,Y,5572098
+C0025,Waste Management,Clark-Cruz,14743995,12895511,N,Y,Completed,Delayed,1,N,0
+C0026,Water & Sanitation,Clark-Cruz,45477017,42862958,N,Y,Planning,Delayed,1,N,0
+C0027,Housing,"Long, Haney and Perry",30444474,34317190,N,N,Planning,On track,2,Y,3872716
+C0028,Waste Management,Guzman-Miller,46259303,45978601,N,Y,Execution,On track,0,N,0
+C0029,Housing,Contreras and Sons,41978167,39009520,N,Y,Completed,Delayed,1,N,0
+C0030,Electricity,Palmer and Sons,18373392,25780300,N,Y,Planning,On track,1,Y,7406908
+C0031,Waste Management,Frye-Weaver,39380002,35990809,Y,Y,Execution,Cancelled,2,Y,0
+C0032,Waste Management,Moyer-Robinson,11606305,9438482,N,Y,Completed,Delayed,1,N,0
+C0033,Roads & Transport,Clark-Cruz,38026525,37866095,N,Y,Planning,Cancelled,1,N,0
+C0034,Housing,Harris Inc,1219043,1823351,N,Y,Planning,On track,1,Y,604308
+C0035,Electricity,Lawrence-Coleman,6759908,7120967,N,N,Planning,Cancelled,3,Y,361059
+C0036,Housing,"Chavez, Reed and Cox",30927104,31028529,N,Y,Planning,Delayed,2,Y,101425
+C0037,Housing,"Chavez, Reed and Cox",24535642,26607917,N,Y,Execution,Cancelled,2,Y,2072275
+C0038,Roads & Transport,Jimenez-Roberts,10521958,11325573,N,Y,Planning,Cancelled,2,Y,803615
+C0039,Water & Sanitation,"Sherman, Freeman and Tyler",16485802,13936922,N,Y,Completed,Delayed,1,N,0
+C0040,Roads & Transport,Miller PLC,34209026,29761235,N,Y,Execution,Delayed,1,N,0
+C0041,Electricity,Vargas Inc,46610960,39024611,N,Y,Planning,Cancelled,1,N,0
+C0042,Roads & Transport,Sanchez-Jenkins,34895514,31808954,N,Y,Planning,Cancelled,1,N,0
+C0043,Water & Sanitation,Lawrence-Coleman,6141495,7211675,N,Y,Execution,Cancelled,2,Y,1070180
+C0044,Waste Management,"Chavez, Reed and Cox",11102109,14223769,N,N,Planning,On track,2,Y,3121660
+C0045,Roads & Transport,Mcconnell Ltd,19676703,19563473,N,Y,Planning,Cancelled,1,N,0
+C0046,Waste Management,"Mathis, Bailey and Lyons",17495683,15656880,N,Y,Completed,Delayed,1,N,0
+C0047,Housing,Reeves PLC,38788639,42216622,N,Y,Planning,Delayed,2,Y,3427983
+C0048,Roads & Transport,Holt and Sons,37956186,34391376,N,Y,Planning,On track,0,N,0
+C0049,Waste Management,Harris Inc,10720268,12461663,N,Y,Planning,Cancelled,2,Y,1741395
+C0050,Housing,Henderson-Miller,19334400,19276533,Y,Y,Completed,On track,1,Y,0
+C0051,Electricity,"Cunningham, Fisher and Smith",40920227,70234570,Y,Y,Execution,Cancelled,3,Y,29314343
+C0052,Electricity,Palmer and Sons,3551356,4096125,N,Y,Completed,Cancelled,2,Y,544769
+C0053,Housing,"Finley, Burch and Reed",11375612,13499005,N,Y,Completed,Cancelled,2,Y,2123393
+C0054,Electricity,Guzman-Miller,37990300,43326214,N,Y,Execution,Delayed,2,Y,5335914
+C0055,Roads & Transport,Gutierrez-Sanchez,42732984,48616685,N,N,Completed,Delayed,3,Y,5883701
+C0056,Water & Sanitation,Holt and Sons,24983825,29881192,Y,Y,Planning,On track,2,Y,4897367
+C0057,Roads & Transport,Reeves PLC,10292257,11727696,Y,Y,Completed,Cancelled,3,Y,1435439
+C0058,Electricity,"Lee, Roberts and Lee",25633478,28805478,N,Y,Planning,On track,1,Y,3172000
+C0059,Water & Sanitation,Guzman-Miller,30124204,36273996,N,Y,Completed,On track,1,Y,6149792
+C0060,Electricity,Henderson-Miller,36353447,40654680,N,Y,Planning,Delayed,2,Y,4301233
+C0061,Water & Sanitation,Sanchez-Jenkins,2603771,2539691,N,Y,Planning,Delayed,1,N,0
+C0062,Housing,"Finley, Burch and Reed",49039582,55688044,N,Y,Completed,On track,1,Y,6648462
+C0063,Waste Management,Leonard-Reynolds,32676169,30848795,Y,Y,Execution,On track,1,Y,0
+C0064,Housing,Gonzalez PLC,18862804,22373185,N,Y,Planning,On track,1,Y,3510381
+C0065,Water & Sanitation,"Cunningham, Fisher and Smith",29649535,30131459,N,Y,Execution,Delayed,2,Y,481924
+C0066,Housing,Gonzalez PLC,30603180,33230097,Y,Y,Execution,Cancelled,3,Y,2626917
+C0067,Water & Sanitation,"Sherman, Freeman and Tyler",6419707,5779946,Y,N,Completed,Cancelled,3,Y,0
+C0068,Water & Sanitation,Fry-Griffin,27757342,26746452,Y,Y,Execution,Cancelled,2,Y,0
+C0069,Roads & Transport,"Crawford, Olsen and Smith",1143233,957514,Y,Y,Planning,On track,1,Y,0
+C0070,Electricity,Frye-Weaver,7574447,8050459,N,Y,Execution,On track,1,Y,476012
+C0071,Housing,"Odom, Anthony and Lopez",3712610,3498723,N,N,Execution,Delayed,2,Y,0
+C0072,Electricity,Henderson-Miller,28866157,36813748,N,Y,Execution,Cancelled,2,Y,7947591
+C0073,Water & Sanitation,Fry-Griffin,14940260,12536875,N,Y,Completed,Cancelled,1,N,0
+C0074,Water & Sanitation,Harris Inc,5798848,6146253,Y,Y,Planning,On track,2,Y,347405
+C0075,Housing,"Gomez, Gentry and Anthony",46887763,49248278,N,Y,Execution,On track,1,Y,2360515
+C0076,Housing,Fry-Griffin,10595300,11086291,N,Y,Planning,Delayed,2,Y,490991
+C0077,Water & Sanitation,Clark-Ward,33703547,39638475,N,Y,Execution,Delayed,2,Y,5934928
+C0078,Roads & Transport,Moyer-Robinson,11538459,12974785,N,Y,Completed,Cancelled,2,Y,1436326
+C0079,Waste Management,"Cunningham, Fisher and Smith",34145504,39681864,Y,N,Completed,Delayed,4,Y,5536360
+C0080,Electricity,Williams-Moore,30285054,24700043,N,Y,Execution,On track,0,N,0
+C0081,Water & Sanitation,"Lee, Roberts and Lee",27912615,29940339,N,Y,Completed,Cancelled,2,Y,2027724
+C0082,Water & Sanitation,Lane PLC,37852003,35555697,N,N,Execution,On track,1,Y,0
+C0083,Water & Sanitation,"Lee, Roberts and Lee",28472244,29018590,N,Y,Execution,Cancelled,2,Y,546346
+C0084,Waste Management,Berg-Alvarez,26428752,22492873,N,Y,Planning,Cancelled,1,N,0
+C0085,Water & Sanitation,"Odom, Anthony and Lopez",33349942,38131159,N,Y,Planning,Cancelled,2,Y,4781217
+C0086,Water & Sanitation,"Sherman, Freeman and Tyler",19611512,18652343,N,Y,Planning,Delayed,1,N,0
+C0087,Water & Sanitation,Leonard-Reynolds,32525301,27321056,Y,Y,Planning,Cancelled,2,Y,0
+C0088,Waste Management,Reed-White,14673458,21356497,N,Y,Completed,On track,1,Y,6683039
+C0089,Housing,"Cunningham, Fisher and Smith",47077874,39230640,Y,Y,Completed,Cancelled,2,Y,0
+C0090,Waste Management,"Baker, Bonilla and Kim",29426259,32396834,N,Y,Execution,On track,1,Y,2970575
+C0091,Roads & Transport,Holt and Sons,38987092,32087293,N,Y,Execution,Delayed,1,N,0
+C0092,Electricity,"Cunningham, Fisher and Smith",30873482,36661048,N,Y,Completed,Delayed,2,Y,5787566
+C0093,Housing,"Baker, Bonilla and Kim",32285232,26914348,N,N,Planning,On track,1,Y,0
+C0094,Housing,"Wood, Beck and Wallace",40301137,34604246,N,Y,Completed,On track,0,N,0
+C0095,Water & Sanitation,Frye-Weaver,13759783,13047808,N,Y,Planning,Cancelled,1,N,0
+C0096,Roads & Transport,"Castro, Trevino and Young",7083896,6659480,N,Y,Execution,On track,0,N,0
+C0097,Electricity,"Fowler, Nelson and Oliver",12931595,12539622,N,N,Execution,On track,1,Y,0
+C0098,Housing,Frye-Weaver,35533922,34186505,N,Y,Completed,Delayed,1,N,0
+C0099,Waste Management,Johnson-Wilson,6842471,7250857,N,Y,Completed,On track,1,Y,408386
+C0100,Waste Management,Welch-Gibson,38958941,38611659,Y,Y,Completed,On track,1,Y,0
+C0101,Electricity,Palmer and Sons,43468581,51778046,N,Y,Planning,On track,1,Y,8309465
+C0102,Waste Management,"Sutton, Brown and Gibson",11989876,9945825,N,Y,Execution,Delayed,1,N,0
+C0103,Waste Management,"Finley, Burch and Reed",32195633,28548628,N,Y,Completed,Delayed,1,N,0
+C0104,Electricity,"Sherman, Freeman and Tyler",40580309,47091955,Y,Y,Completed,Delayed,3,Y,6511646
+C0105,Waste Management,"Gomez, Gentry and Anthony",47296943,46458022,N,Y,Execution,On track,0,N,0
+C0106,Water & Sanitation,Lawrence-Coleman,2767867,2644163,N,Y,Execution,Delayed,1,N,0
+C0107,Water & Sanitation,"Mathis, Bailey and Lyons",4266500,5096267,N,Y,Execution,On track,1,Y,829767
+C0108,Roads & Transport,Berg-Alvarez,21388948,22969430,Y,Y,Completed,Delayed,3,Y,1580482
+C0109,Waste Management,Guzman-Miller,43209628,41768829,N,Y,Execution,Cancelled,1,N,0
+C0110,Water & Sanitation,Miller PLC,19957417,22879692,Y,N,Planning,Cancelled,4,Y,2922275
+C0111,Electricity,Frye-Weaver,6385088,6334952,N,Y,Planning,Delayed,1,N,0
+C0112,Waste Management,Jimenez-Roberts,25401054,28745501,N,N,Planning,Delayed,3,Y,3344447
+C0113,Electricity,Reed-White,24030984,21852883,Y,Y,Execution,Delayed,2,Y,0
+C0114,Water & Sanitation,Rose LLC,1822320,2004486,N,Y,Planning,Cancelled,2,Y,182166
+C0115,Electricity,"Cunningham, Fisher and Smith",31757524,36199098,N,Y,Planning,Delayed,2,Y,4441574
+C0116,Waste Management,Gonzalez PLC,17964557,16345819,N,Y,Completed,Cancelled,1,N,0
+C0117,Electricity,Holt and Sons,30161031,28449847,Y,Y,Planning,On track,1,Y,0
+C0118,Housing,Reeves PLC,20212033,22891109,N,Y,Planning,Cancelled,2,Y,2679076
+C0119,Roads & Transport,Gonzalez PLC,44266109,42557133,Y,N,Completed,Cancelled,3,Y,0
+C0120,Electricity,"Long, Haney and Perry",22164334,23399874,N,Y,Planning,Cancelled,2,Y,1235540
+C0121,Water & Sanitation,Clark-Ward,33981791,50309023,N,Y,Planning,Delayed,2,Y,16327232
+C0122,Electricity,Williams-Moore,32943745,33128091,N,Y,Execution,Delayed,2,Y,184346
+C0123,Roads & Transport,Clark-Cruz,34362121,40540713,Y,Y,Planning,On track,2,Y,6178592
+C0124,Electricity,Contreras and Sons,33348585,27562418,Y,Y,Execution,Delayed,2,Y,0
+C0125,Water & Sanitation,Richardson Inc,15834209,16679127,N,N,Execution,Delayed,3,Y,844918
+C0126,Waste Management,Contreras and Sons,16763288,17331671,N,Y,Completed,Cancelled,2,Y,568383
+C0127,Roads & Transport,Reeves PLC,35285539,33107253,N,Y,Planning,Delayed,1,N,0
+C0128,Electricity,"Lee, Roberts and Lee",48666364,50650694,N,Y,Execution,On track,1,Y,1984330
+C0129,Water & Sanitation,"Chavez, Reed and Cox",5823601,5071216,Y,N,Execution,Delayed,3,Y,0
+C0130,Roads & Transport,Moyer-Robinson,32972680,38172039,Y,Y,Completed,Cancelled,3,Y,5199359
+C0131,Water & Sanitation,Clark-Ward,39110202,71944324,N,N,Completed,On track,2,Y,32834122
+C0132,Roads & Transport,Reed-White,3225354,2659082,N,Y,Completed,Delayed,1,N,0
+C0133,Water & Sanitation,"Clark, Lucas and Abbott",15252994,13479676,N,Y,Completed,Cancelled,1,N,0
+C0134,Electricity,"Fowler, Nelson and Oliver",38238329,38716549,N,N,Execution,On track,2,Y,478220
+C0135,Roads & Transport,"Wood, Beck and Wallace",30654810,33270886,N,Y,Execution,Cancelled,2,Y,2616076
+C0136,Water & Sanitation,Martin LLC,3808654,7212722,N,Y,Execution,Cancelled,2,Y,3404068
+C0137,Roads & Transport,"Cunningham, Fisher and Smith",47856479,45507379,Y,Y,Execution,Delayed,2,Y,0
+C0138,Housing,"Heath, Caldwell and Cruz",35847046,58368614,N,Y,Execution,Cancelled,2,Y,22521568
+C0139,Electricity,Williams-Moore,22519480,25124274,N,N,Execution,Cancelled,3,Y,2604794
+C0140,Housing,"Sherman, Freeman and Tyler",25253646,25836927,N,Y,Completed,On track,1,Y,583281
+C0141,Waste Management,Leonard-Reynolds,16303305,15410420,N,Y,Execution,Delayed,1,N,0
+C0142,Waste Management,"Mathis, Bailey and Lyons",9292300,10904297,Y,Y,Execution,Delayed,3,Y,1611997
+C0143,Electricity,Moyer-Robinson,25791717,22291073,Y,Y,Completed,Cancelled,2,Y,0
+C0144,Roads & Transport,Vargas Inc,6536446,12248327,Y,N,Execution,Delayed,4,Y,5711881
+C0145,Electricity,Sanchez-Jenkins,40736644,34414950,N,Y,Execution,Cancelled,1,N,0
+C0146,Electricity,"Cunningham, Fisher and Smith",26437283,52347240,N,Y,Planning,Delayed,2,Y,25909957
+C0147,Waste Management,"Cunningham, Fisher and Smith",36012253,36829916,N,Y,Completed,Cancelled,2,Y,817663
+C0148,Roads & Transport,Harris Inc,16712651,19841219,N,Y,Planning,Cancelled,2,Y,3128568
+C0149,Roads & Transport,Clark-Cruz,8140979,6886736,N,Y,Planning,On track,0,N,0
+C0150,Water & Sanitation,Reed-White,13471172,15799067,N,Y,Planning,Delayed,2,Y,2327895
+C0151,Waste Management,Richardson Inc,42428965,36224402,Y,Y,Planning,Delayed,2,Y,0
+C0152,Housing,Lawrence-Coleman,42421932,35428559,Y,N,Completed,On track,2,Y,0
+C0153,Housing,"Gomez, Gentry and Anthony",31543720,31185082,N,Y,Execution,On track,0,N,0
+C0154,Electricity,Johnson-Wilson,32974288,36218621,N,Y,Completed,On track,1,Y,3244333
+C0155,Water & Sanitation,Richardson Inc,28251242,24649017,Y,Y,Execution,On track,1,Y,0
+C0156,Electricity,"Heath, Caldwell and Cruz",5338331,4569125,N,Y,Completed,Delayed,1,N,0
+C0157,Water & Sanitation,Jimenez-Roberts,31908285,27905773,N,Y,Planning,On track,0,N,0
+C0158,Housing,"Castro, Trevino and Young",7041245,8103629,N,Y,Execution,Cancelled,2,Y,1062384
+C0159,Waste Management,Jimenez-Roberts,7121862,8260412,N,Y,Completed,Delayed,2,Y,1138550
+C0160,Housing,"Wood, Beck and Wallace",5445854,4862521,N,Y,Completed,Cancelled,1,N,0
+C0161,Housing,Jimenez-Roberts,17791444,18675593,Y,Y,Execution,On track,2,Y,884149
+C0162,Housing,Gutierrez-Sanchez,11730982,12639981,Y,Y,Execution,On track,2,Y,908999
+C0163,Roads & Transport,Richardson Inc,47553472,55045855,N,Y,Completed,Delayed,2,Y,7492383
+C0164,Electricity,"Long, Haney and Perry",16659100,18284670,Y,Y,Execution,On track,2,Y,1625570
+C0165,Roads & Transport,Holt and Sons,41359524,38746954,N,N,Execution,Delayed,2,Y,0
+C0166,Roads & Transport,Frye-Weaver,11706243,12193025,N,Y,Planning,On track,1,Y,486782
+C0167,Electricity,Clark-Cruz,8614716,9380573,N,Y,Execution,Cancelled,2,Y,765857
+C0168,Electricity,Guzman-Miller,27795858,30199411,N,Y,Planning,On track,1,Y,2403553
+C0169,Housing,Gonzalez PLC,25654173,26509912,N,Y,Execution,Cancelled,2,Y,855739
+C0170,Housing,Gonzalez PLC,42119117,49057860,Y,N,Planning,On track,3,Y,6938743
+C0171,Housing,Clark-Ward,25936512,49219696,N,Y,Completed,Cancelled,2,Y,23283184
+C0172,Water & Sanitation,Mcconnell Ltd,39402467,31884832,N,Y,Completed,Delayed,1,N,0
+C0173,Housing,"Mathis, Bailey and Lyons",27680296,30298234,N,Y,Execution,Delayed,2,Y,2617938
+C0174,Housing,Gonzalez PLC,16691661,14458453,Y,Y,Completed,Cancelled,2,Y,0
+C0175,Waste Management,"Chavez, Reed and Cox",17371808,17502708,N,Y,Planning,Delayed,2,Y,130900
+C0176,Electricity,"Long, Haney and Perry",33972840,29971923,N,Y,Execution,Delayed,1,N,0
+C0177,Water & Sanitation,Clark-Ward,21112258,21428060,N,Y,Execution,Cancelled,2,Y,315802
+C0178,Housing,Martin LLC,13857649,16177168,N,N,Planning,Delayed,3,Y,2319519
+C0179,Electricity,"Wood, Beck and Wallace",28015002,24388594,N,Y,Completed,On track,0,N,0
+C0180,Housing,"Lee, Roberts and Lee",37019127,41172609,N,Y,Completed,Cancelled,2,Y,4153482
+C0181,Water & Sanitation,Harris Inc,41141777,35843308,N,N,Completed,Delayed,2,Y,0
+C0182,Electricity,Vargas Inc,36066581,36572518,Y,Y,Planning,On track,2,Y,505937
+C0183,Roads & Transport,Clark-Ward,19755820,19177281,N,Y,Execution,On track,0,N,0
+C0184,Housing,"Baker, Bonilla and Kim",13791164,13116643,N,Y,Execution,Delayed,1,N,0
+C0185,Roads & Transport,Mcconnell Ltd,42631405,43102869,N,Y,Execution,Delayed,2,Y,471464
+C0186,Water & Sanitation,Rogers Inc,39748899,45501131,N,Y,Planning,Cancelled,2,Y,5752232
+C0187,Waste Management,Fry-Griffin,22088809,22323643,N,Y,Execution,On track,1,Y,234834
+C0188,Water & Sanitation,Richardson Inc,32822310,26613589,N,Y,Completed,On track,0,N,0
+C0189,Water & Sanitation,Holt and Sons,176218,182917,N,Y,Planning,On track,1,Y,6699
+C0190,Waste Management,"Sutton, Brown and Gibson",42390779,35598782,N,Y,Planning,On track,0,N,0
+C0191,Housing,"Cunningham, Fisher and Smith",42942925,41176829,N,Y,Planning,Cancelled,1,N,0
+C0192,Electricity,Vargas Inc,49449430,39816719,Y,Y,Completed,Delayed,2,Y,0
+C0193,Roads & Transport,Berg-Alvarez,46946098,54015130,N,Y,Completed,Cancelled,2,Y,7069032
+C0194,Water & Sanitation,Richardson Inc,18886176,17691189,N,Y,Planning,Delayed,1,N,0
+C0195,Water & Sanitation,"Lee, Roberts and Lee",12890902,13531058,N,Y,Planning,Delayed,2,Y,640156
+C0196,Waste Management,"Sherman, Freeman and Tyler",7371476,8693781,N,N,Execution,Delayed,3,Y,1322305
+C0197,Electricity,Henderson-Miller,39154025,46755658,N,Y,Completed,Cancelled,2,Y,7601633
+C0198,Electricity,"Crawford, Olsen and Smith",1832465,2592831,N,Y,Completed,Delayed,2,Y,760366
+C0199,Waste Management,Miller PLC,33977350,35948772,N,N,Completed,On track,2,Y,1971422
+C0200,Roads & Transport,Frye-Weaver,42823356,38923130,Y,Y,Execution,Cancelled,2,Y,0
+C0201,Roads & Transport,Henderson-Miller,36074996,36047445,Y,Y,Completed,Cancelled,2,Y,0
+C0202,Roads & Transport,"Mathis, Bailey and Lyons",7044121,5935598,Y,Y,Execution,Delayed,2,Y,0
+C0203,Water & Sanitation,Moyer-Robinson,3851198,4001260,N,Y,Execution,Cancelled,2,Y,150062
+C0204,Housing,Guzman-Miller,15116390,17160772,N,Y,Planning,Delayed,2,Y,2044382
+C0205,Electricity,Martin LLC,791757,1055433,N,N,Completed,Cancelled,3,Y,263676
+C0206,Roads & Transport,"Wood, Beck and Wallace",40481731,33490531,N,Y,Completed,Delayed,1,N,0
+C0207,Housing,Moyer-Robinson,39887171,36650274,N,Y,Completed,Cancelled,1,N,0
+C0208,Roads & Transport,"Baker, Bonilla and Kim",31973646,27305510,N,Y,Planning,On track,0,N,0
+C0209,Roads & Transport,Gutierrez-Sanchez,37005710,38413080,Y,Y,Planning,Delayed,3,Y,1407370
+C0210,Waste Management,"Wood, Beck and Wallace",13383692,14043949,N,Y,Completed,Delayed,2,Y,660257
+C0211,Roads & Transport,Reeves PLC,33558471,33497949,N,Y,Execution,Delayed,1,N,0
+C0212,Electricity,"Gomez, Gentry and Anthony",28456738,34201342,N,N,Planning,Delayed,3,Y,5744604
+C0213,Roads & Transport,Paul-Rosales,40231083,33658644,N,N,Execution,Cancelled,2,Y,0
+C0214,Roads & Transport,Jimenez-Roberts,13243608,11575617,N,Y,Planning,Cancelled,1,N,0
+C0215,Electricity,Harris Inc,41701684,45439878,N,Y,Planning,Cancelled,2,Y,3738194
+C0216,Housing,"Gomez, Gentry and Anthony",21789432,23473103,Y,Y,Completed,On track,2,Y,1683671
+C0217,Housing,Johnson-Wilson,10623401,12745333,N,Y,Completed,Delayed,2,Y,2121932
+C0218,Housing,Reeves PLC,1624102,2855067,N,Y,Planning,Delayed,2,Y,1230965
+C0219,Electricity,Contreras and Sons,10013841,11196843,N,N,Completed,On track,2,Y,1183002
+C0220,Roads & Transport,"Cunningham, Fisher and Smith",8770178,9924036,Y,Y,Completed,Delayed,3,Y,1153858
+C0221,Housing,Jimenez-Roberts,48456322,48089253,N,Y,Completed,Delayed,1,N,0
+C0222,Housing,Lane PLC,15270521,12615626,N,Y,Completed,Delayed,1,N,0
+C0223,Roads & Transport,"Heath, Caldwell and Cruz",40786940,44667503,N,Y,Execution,Delayed,2,Y,3880563
+C0224,Roads & Transport,Palmer and Sons,7252747,5872986,N,N,Planning,On track,1,Y,0
+C0225,Electricity,"Baker, Bonilla and Kim",38599601,43212766,N,Y,Planning,Cancelled,2,Y,4613165
+C0226,Waste Management,Mcconnell Ltd,6814301,8382117,N,Y,Completed,On track,1,Y,1567816
+C0227,Electricity,"Finley, Burch and Reed",26135947,28940578,N,Y,Completed,Delayed,2,Y,2804631
+C0228,Roads & Transport,Martin LLC,13875236,11118761,N,Y,Completed,Cancelled,1,N,0
+C0229,Waste Management,"Parker, Abbott and Taylor",39063185,34900733,Y,N,Planning,On track,2,Y,0
+C0230,Roads & Transport,Clark-Cruz,14476941,18640133,N,N,Execution,On track,2,Y,4163192
+C0231,Roads & Transport,"Mathis, Bailey and Lyons",14233434,15863703,Y,Y,Completed,Cancelled,3,Y,1630269
+C0232,Electricity,"Long, Haney and Perry",17787991,18505191,N,Y,Planning,On track,1,Y,717200
+C0233,Waste Management,"Parker, Abbott and Taylor",38659430,34510062,N,Y,Completed,On track,0,N,0
+C0234,Housing,"Crawford, Olsen and Smith",10912658,9737014,Y,Y,Planning,Cancelled,2,Y,0
+C0235,Roads & Transport,Rogers Inc,17903769,16830439,Y,Y,Execution,Delayed,2,Y,0
+C0236,Roads & Transport,"Odom, Anthony and Lopez",37835088,39307237,N,Y,Planning,Delayed,2,Y,1472149
+C0237,Housing,Miller PLC,35483985,42528773,N,Y,Planning,Delayed,2,Y,7044788
+C0238,Housing,Henderson-Miller,21865239,17797125,N,Y,Completed,Cancelled,1,N,0
+C0239,Water & Sanitation,"Sutton, Brown and Gibson",18598826,16855000,Y,Y,Planning,Cancelled,2,Y,0
+C0240,Roads & Transport,Harris Inc,10951224,8916146,N,Y,Planning,On track,0,N,0
+C0241,Waste Management,Mcconnell Ltd,3697706,5645519,N,Y,Execution,Cancelled,2,Y,1947813
+C0242,Waste Management,"Wood, Beck and Wallace",20157988,32778541,N,N,Planning,Cancelled,3,Y,12620553
+C0243,Housing,Gutierrez-Sanchez,16656827,31330917,N,Y,Execution,Delayed,2,Y,14674090
+C0244,Waste Management,Moyer-Robinson,1232658,1157618,N,Y,Execution,Cancelled,1,N,0
+C0245,Waste Management,Fry-Griffin,6126988,6179092,N,Y,Completed,Cancelled,2,Y,52104
+C0246,Water & Sanitation,Mcconnell Ltd,4784346,5183098,N,Y,Planning,Cancelled,2,Y,398752
+C0247,Electricity,Palmer and Sons,35601225,38434950,Y,Y,Completed,On track,2,Y,2833725
+C0248,Electricity,Holt and Sons,35277004,28634305,N,N,Planning,Cancelled,2,Y,0
+C0249,Water & Sanitation,Berg-Alvarez,30138378,35065415,Y,Y,Planning,Delayed,3,Y,4927037
+C0250,Housing,"Heath, Caldwell and Cruz",28600556,22953500,N,Y,Completed,Delayed,1,N,0
+C0251,Roads & Transport,Reed-White,29363888,27915606,Y,Y,Planning,Delayed,2,Y,0
+C0252,Roads & Transport,"Heath, Caldwell and Cruz",14912143,16469137,N,Y,Execution,On track,1,Y,1556994
+C0253,Electricity,Palmer and Sons,6655035,7805099,Y,Y,Completed,Cancelled,3,Y,1150064
+C0254,Electricity,Moyer-Robinson,1756671,2070973,Y,Y,Planning,Cancelled,3,Y,314302
+C0255,Electricity,Johnson-Wilson,23494704,22046331,N,N,Planning,Delayed,2,Y,0
+C0256,Electricity,Henderson-Miller,24896429,29565782,N,N,Planning,On track,2,Y,4669353
+C0257,Roads & Transport,"Chavez, Reed and Cox",35590172,29406395,N,Y,Completed,Cancelled,1,N,0
+C0258,Roads & Transport,Gutierrez-Sanchez,27096639,29083314,N,Y,Planning,Delayed,2,Y,1986675
+C0259,Roads & Transport,"Heath, Caldwell and Cruz",29321379,28751219,Y,Y,Execution,Delayed,2,Y,0
+C0260,Waste Management,Frye-Weaver,26652476,30276649,N,Y,Execution,Delayed,2,Y,3624173
+C0261,Water & Sanitation,"Chavez, Reed and Cox",27309162,32234244,Y,Y,Planning,Delayed,3,Y,4925082
+C0262,Roads & Transport,"Chavez, Reed and Cox",26367668,30136768,N,Y,Execution,On track,1,Y,3769100
+C0263,Water & Sanitation,Clark-Cruz,20710500,19959404,N,Y,Completed,Cancelled,1,N,0
+C0264,Waste Management,Reeves PLC,42962524,49288718,N,Y,Completed,Delayed,2,Y,6326194
+C0265,Waste Management,Reed-White,12050571,14307370,Y,Y,Planning,Delayed,3,Y,2256799
+C0266,Waste Management,Johnson-Wilson,47223764,46349059,N,N,Execution,Delayed,2,Y,0
+C0267,Electricity,"Lee, Roberts and Lee",26921567,31356475,N,Y,Execution,Cancelled,2,Y,4434908
+C0268,Housing,Harris Inc,38635694,32721468,Y,Y,Execution,Delayed,2,Y,0
+C0269,Housing,Paul-Rosales,36310403,32324103,Y,Y,Execution,Cancelled,2,Y,0
+C0270,Water & Sanitation,Berg-Alvarez,14567188,14178225,N,N,Execution,Delayed,2,Y,0
+C0271,Housing,"Parker, Abbott and Taylor",49378740,74759157,N,Y,Completed,Delayed,2,Y,25380417
+C0272,Waste Management,Reed-White,44821695,49430427,N,Y,Execution,On track,1,Y,4608732
+C0273,Roads & Transport,Palmer and Sons,23873962,20101209,N,Y,Execution,On track,0,N,0
+C0274,Housing,Sanchez-Jenkins,8133951,12899511,N,Y,Planning,Cancelled,2,Y,4765560
+C0275,Waste Management,Vargas Inc,43821639,64030822,N,N,Execution,On track,2,Y,20209183
+C0276,Electricity,"Clark, Lucas and Abbott",29636204,55111817,N,Y,Execution,Cancelled,2,Y,25475613
+C0277,Housing,Lawrence-Coleman,37536581,40381327,N,Y,Execution,On track,1,Y,2844746
+C0278,Electricity,"Long, Haney and Perry",48343574,57075389,Y,Y,Completed,On track,2,Y,8731815
+C0279,Roads & Transport,Gutierrez-Sanchez,4509352,3701224,N,Y,Completed,Delayed,1,N,0
+C0280,Water & Sanitation,Reeves PLC,49896359,52397257,N,Y,Completed,Cancelled,2,Y,2500898
+C0281,Electricity,Guzman-Miller,200734,384576,N,Y,Planning,Delayed,2,Y,183842
+C0282,Waste Management,"Mathis, Bailey and Lyons",12781730,17015033,N,Y,Completed,Delayed,2,Y,4233303
+C0283,Water & Sanitation,Clark-Cruz,41628843,47819610,N,Y,Planning,Delayed,2,Y,6190767
+C0284,Water & Sanitation,Johnson-Wilson,37770243,43387928,N,N,Planning,Delayed,3,Y,5617685
+C0285,Roads & Transport,Sanchez-Jenkins,23389643,25440463,N,Y,Completed,Delayed,2,Y,2050820
+C0286,Housing,Rogers Inc,26055176,21693815,N,Y,Execution,On track,0,N,0
+C0287,Housing,Jimenez-Roberts,2046830,2016228,N,Y,Planning,Delayed,1,N,0
+C0288,Electricity,"Chavez, Reed and Cox",35883612,37731830,N,Y,Completed,Cancelled,2,Y,1848218
+C0289,Electricity,Henderson-Miller,20908635,39593118,N,Y,Execution,Delayed,2,Y,18684483
+C0290,Roads & Transport,Sanchez-Jenkins,28050196,29241641,N,Y,Execution,On track,1,Y,1191445
+C0291,Roads & Transport,Martin LLC,48215625,44046989,N,Y,Execution,Cancelled,1,N,0
+C0292,Waste Management,"Cunningham, Fisher and Smith",28275911,25287623,N,Y,Execution,On track,0,N,0
+C0293,Housing,Frye-Weaver,34912381,31247186,N,Y,Execution,Delayed,1,N,0
+C0294,Roads & Transport,Jimenez-Roberts,45777380,70942684,Y,Y,Completed,Delayed,3,Y,25165304
+C0295,Housing,"Baker, Bonilla and Kim",5640070,5849769,Y,Y,Planning,Cancelled,3,Y,209699
+C0296,Electricity,Leonard-Reynolds,2944664,3366323,Y,Y,Execution,On track,2,Y,421659
+C0297,Housing,Reed-White,21420139,25445591,N,Y,Execution,Cancelled,2,Y,4025452
+C0298,Housing,Guzman-Miller,47330658,44129010,N,Y,Execution,Delayed,1,N,0
+C0299,Electricity,"Gomez, Gentry and Anthony",22139912,19914534,N,Y,Planning,On track,0,N,0
+C0300,Waste Management,"Lee, Roberts and Lee",46450911,44209349,N,Y,Execution,On track,0,N,0
+C0301,Housing,"Crawford, Olsen and Smith",9814891,11166089,N,Y,Completed,Delayed,2,Y,1351198
+C0302,Water & Sanitation,Martin LLC,38309230,38920734,Y,Y,Planning,Delayed,3,Y,611504
+C0303,Electricity,Henderson-Miller,20809657,27004440,N,Y,Execution,Delayed,2,Y,6194783
+C0304,Roads & Transport,"Wood, Beck and Wallace",15802852,16338067,N,Y,Completed,Delayed,2,Y,535215
+C0305,Water & Sanitation,Paul-Rosales,47976337,38475870,N,Y,Completed,Cancelled,1,N,0
+C0306,Housing,"Baker, Bonilla and Kim",36793176,33176032,N,Y,Completed,Cancelled,1,N,0
+C0307,Housing,Frye-Weaver,4373445,3551191,N,Y,Planning,Cancelled,1,N,0
+C0308,Water & Sanitation,Holt and Sons,6789142,5942805,N,Y,Completed,Cancelled,1,N,0
+C0309,Roads & Transport,Clark-Cruz,900101,783861,N,Y,Completed,On track,0,N,0
+C0310,Housing,"Crawford, Olsen and Smith",30655353,24739065,N,Y,Completed,Cancelled,1,N,0
+C0311,Water & Sanitation,Gutierrez-Sanchez,22579150,18337765,N,Y,Planning,Cancelled,1,N,0
+C0312,Roads & Transport,Reeves PLC,20021696,23552524,N,Y,Planning,Delayed,2,Y,3530828
+C0313,Water & Sanitation,"Parker, Abbott and Taylor",20817501,24976119,Y,Y,Execution,Delayed,3,Y,4158618
+C0314,Housing,"Sutton, Brown and Gibson",2925896,3221326,Y,Y,Planning,Cancelled,3,Y,295430
+C0315,Housing,Leonard-Reynolds,15199203,16811478,N,Y,Completed,On track,1,Y,1612275
+C0316,Electricity,"Odom, Anthony and Lopez",46273665,51786036,N,Y,Planning,Cancelled,2,Y,5512371
+C0317,Housing,"Wood, Beck and Wallace",46631927,49412582,N,Y,Completed,On track,1,Y,2780655
+C0318,Housing,"Lee, Roberts and Lee",2061977,2223196,N,Y,Planning,On track,1,Y,161219
+C0319,Housing,Lawrence-Coleman,13711312,13406479,Y,Y,Execution,Delayed,2,Y,0
+C0320,Roads & Transport,"Cunningham, Fisher and Smith",8479341,8355522,N,Y,Planning,Delayed,1,N,0
+C0321,Roads & Transport,"Sherman, Freeman and Tyler",14946767,17423365,N,N,Completed,On track,2,Y,2476598
+C0322,Water & Sanitation,Gutierrez-Sanchez,36035364,37190980,N,Y,Execution,Cancelled,2,Y,1155616
+C0323,Roads & Transport,Lawrence-Coleman,11005942,11966201,N,N,Execution,Cancelled,3,Y,960259
+C0324,Roads & Transport,Vargas Inc,35653686,41311416,Y,Y,Execution,On track,2,Y,5657730
+C0325,Housing,Rogers Inc,22260074,19563525,N,Y,Planning,On track,0,N,0
+C0326,Housing,Leonard-Reynolds,43400173,39177797,N,Y,Execution,Cancelled,1,N,0
+C0327,Roads & Transport,"Heath, Caldwell and Cruz",26517902,27376361,Y,Y,Execution,On track,2,Y,858459
+C0328,Housing,"Long, Haney and Perry",39958177,38576408,Y,Y,Planning,Cancelled,2,Y,0
+C0329,Water & Sanitation,"Chavez, Reed and Cox",39797758,44570004,Y,Y,Completed,Delayed,3,Y,4772246
+C0330,Roads & Transport,Richardson Inc,20768329,24238737,N,N,Planning,Cancelled,3,Y,3470408
+C0331,Roads & Transport,Clark-Cruz,14052821,11486284,N,Y,Completed,On track,0,N,0
+C0332,Waste Management,Palmer and Sons,33866262,34071832,N,Y,Completed,Cancelled,2,Y,205570
+C0333,Electricity,Lawrence-Coleman,25787822,24870069,N,Y,Planning,Cancelled,1,N,0
+C0334,Water & Sanitation,Welch-Gibson,41638255,37568448,N,Y,Execution,On track,0,N,0
+C0335,Waste Management,"Fowler, Nelson and Oliver",31986947,34130710,Y,Y,Completed,On track,2,Y,2143763
+C0336,Water & Sanitation,"Parker, Abbott and Taylor",8989782,7795990,N,Y,Execution,Cancelled,1,N,0
+C0337,Housing,"Odom, Anthony and Lopez",17744180,21628573,N,Y,Planning,On track,1,Y,3884393
+C0338,Waste Management,"Fowler, Nelson and Oliver",29665896,30786986,N,Y,Completed,Cancelled,2,Y,1121090
+C0339,Roads & Transport,Berg-Alvarez,49233346,52696247,N,Y,Execution,Delayed,2,Y,3462901
+C0340,Roads & Transport,Lane PLC,24868424,29755128,Y,N,Execution,On track,3,Y,4886704
+C0341,Housing,Henderson-Miller,24103801,28013676,N,Y,Planning,On track,1,Y,3909875
+C0342,Housing,Jimenez-Roberts,20135300,17653562,N,Y,Execution,On track,0,N,0
+C0343,Housing,"Mathis, Bailey and Lyons",48402504,47287502,N,Y,Execution,Cancelled,1,N,0
+C0344,Water & Sanitation,Vargas Inc,32018507,32530955,N,Y,Execution,Cancelled,2,Y,512448
+C0345,Roads & Transport,"Lee, Roberts and Lee",7434901,7306600,Y,N,Execution,Cancelled,3,Y,0
+C0346,Roads & Transport,"Crawford, Olsen and Smith",15031115,15378534,N,Y,Completed,On track,1,Y,347419
+C0347,Housing,Reeves PLC,10193205,12059072,Y,Y,Completed,Cancelled,3,Y,1865867
+C0348,Roads & Transport,"Wood, Beck and Wallace",19761007,19149910,N,N,Planning,Cancelled,2,Y,0
+C0349,Water & Sanitation,Lawrence-Coleman,17185839,19216861,N,Y,Execution,Cancelled,2,Y,2031022
+C0350,Roads & Transport,Johnson-Wilson,37427195,30241568,N,Y,Execution,On track,0,N,0
+C0351,Electricity,Reed-White,39964640,40299671,N,N,Planning,Delayed,3,Y,335031
+C0352,Housing,Miller PLC,22736262,23722892,N,Y,Planning,On track,1,Y,986630
+C0353,Waste Management,"Castro, Trevino and Young",2715804,3917554,N,Y,Execution,Delayed,2,Y,1201750
+C0354,Roads & Transport,"Cunningham, Fisher and Smith",40978420,36701179,N,Y,Completed,Cancelled,1,N,0
+C0355,Waste Management,Gonzalez PLC,41772086,48010106,Y,Y,Completed,Cancelled,3,Y,6238020
+C0356,Electricity,Gonzalez PLC,33527797,32066558,N,Y,Completed,On track,0,N,0
+C0357,Housing,"Wood, Beck and Wallace",36532549,34788094,N,Y,Execution,Delayed,1,N,0
+C0358,Water & Sanitation,"Heath, Caldwell and Cruz",38971173,34481420,N,Y,Execution,On track,0,N,0
+C0359,Housing,Gutierrez-Sanchez,31319362,33761659,N,Y,Planning,Delayed,2,Y,2442297
+C0360,Water & Sanitation,"Sherman, Freeman and Tyler",1590687,1638511,N,Y,Execution,Cancelled,2,Y,47824
+C0361,Roads & Transport,Fry-Griffin,11640237,13494580,N,Y,Execution,Delayed,2,Y,1854343
+C0362,Electricity,Miller PLC,34623048,36926268,Y,Y,Execution,On track,2,Y,2303220
+C0363,Electricity,Johnson-Wilson,26331747,31209598,N,Y,Completed,Cancelled,2,Y,4877851
+C0364,Water & Sanitation,Fry-Griffin,45724927,53707569,N,Y,Execution,On track,1,Y,7982642
+C0365,Electricity,Leonard-Reynolds,33165406,29398322,N,Y,Planning,On track,0,N,0
+C0366,Waste Management,"Finley, Burch and Reed",49062002,50326645,Y,Y,Completed,On track,2,Y,1264643
+C0367,Electricity,Paul-Rosales,1073181,883348,N,Y,Planning,Cancelled,1,N,0
+C0368,Water & Sanitation,"Long, Haney and Perry",20737778,17209285,N,Y,Planning,On track,0,N,0
+C0369,Waste Management,Palmer and Sons,25403302,20955608,N,Y,Planning,On track,0,N,0
+C0370,Water & Sanitation,"Castro, Trevino and Young",6414768,5698373,Y,Y,Planning,Delayed,2,Y,0
+C0371,Electricity,"Lee, Roberts and Lee",18421829,15700632,N,Y,Execution,On track,0,N,0
+C0372,Electricity,Palmer and Sons,30690972,31004076,N,Y,Planning,On track,1,Y,313104
+C0373,Housing,"Clark, Lucas and Abbott",15905013,14305479,Y,Y,Planning,Cancelled,2,Y,0
+C0374,Water & Sanitation,Rogers Inc,39131525,43205740,Y,Y,Execution,Delayed,3,Y,4074215
+C0375,Waste Management,"Lee, Roberts and Lee",47346348,65951624,N,Y,Planning,Delayed,2,Y,18605276
+C0376,Waste Management,Clark-Cruz,27809612,41634516,N,Y,Completed,On track,1,Y,13824904
+C0377,Waste Management,Welch-Gibson,2707411,2327548,Y,Y,Execution,Cancelled,2,Y,0
+C0378,Water & Sanitation,Fry-Griffin,39196943,38820936,N,Y,Execution,Delayed,1,N,0
+C0379,Housing,"Sherman, Freeman and Tyler",27251781,32224927,Y,N,Planning,Delayed,4,Y,4973146
+C0380,Housing,Henderson-Miller,10588951,11385810,N,Y,Planning,Delayed,2,Y,796859
+C0381,Waste Management,"Sutton, Brown and Gibson",36366225,69874413,N,Y,Planning,On track,1,Y,33508188
+C0382,Roads & Transport,"Wood, Beck and Wallace",13431233,13163276,N,Y,Completed,Cancelled,1,N,0
+C0383,Waste Management,Guzman-Miller,12052983,10151955,N,Y,Execution,Delayed,1,N,0
+C0384,Waste Management,"Clark, Lucas and Abbott",4205223,5331523,N,N,Execution,Delayed,3,Y,1126300
+C0385,Waste Management,"Chavez, Reed and Cox",37709879,30704452,N,Y,Execution,On track,0,N,0
+C0386,Water & Sanitation,Johnson-Wilson,37989950,35706043,N,Y,Completed,Cancelled,1,N,0
+C0387,Electricity,Moyer-Robinson,47737042,40068480,N,Y,Execution,On track,0,N,0
+C0388,Housing,Paul-Rosales,10501929,13292683,N,Y,Execution,Delayed,2,Y,2790754
+C0389,Housing,Martin LLC,15553951,18515366,N,N,Planning,Delayed,3,Y,2961415
+C0390,Housing,"Baker, Bonilla and Kim",23350723,25915881,N,Y,Completed,Delayed,2,Y,2565158
+C0391,Roads & Transport,"Sutton, Brown and Gibson",46061405,42785803,Y,Y,Completed,Delayed,2,Y,0
+C0392,Water & Sanitation,Harris Inc,19777953,20430013,N,Y,Planning,On track,1,Y,652060
+C0393,Housing,"Crawford, Olsen and Smith",1081883,884433,Y,Y,Completed,Cancelled,2,Y,0
+C0394,Roads & Transport,"Castro, Trevino and Young",5518952,5369006,N,Y,Completed,On track,0,N,0
+C0395,Waste Management,Jimenez-Roberts,24048053,28168134,N,Y,Completed,Delayed,2,Y,4120081
+C0396,Water & Sanitation,Gonzalez PLC,22372887,23907263,N,Y,Execution,Cancelled,2,Y,1534376
+C0397,Housing,Martin LLC,36313515,32714715,N,Y,Planning,Delayed,1,N,0
+C0398,Waste Management,Welch-Gibson,41935879,36578060,Y,Y,Execution,On track,1,Y,0
+C0399,Waste Management,Sanchez-Jenkins,13789493,16202036,Y,Y,Planning,On track,2,Y,2412543
+C0400,Housing,Clark-Cruz,28999868,24265591,N,Y,Planning,Delayed,1,N,0
+C0401,Waste Management,"Fowler, Nelson and Oliver",43269174,47298426,N,Y,Planning,Delayed,2,Y,4029252
+C0402,Waste Management,Clark-Cruz,36008279,30332376,Y,N,Execution,Cancelled,3,Y,0
+C0403,Waste Management,"Wood, Beck and Wallace",48595982,47309170,Y,Y,Completed,Cancelled,2,Y,0
+C0404,Waste Management,Reeves PLC,31612427,37831349,Y,Y,Completed,Cancelled,3,Y,6218922
+C0405,Roads & Transport,Reeves PLC,13826569,12780887,N,Y,Planning,Delayed,1,N,0
+C0406,Roads & Transport,Paul-Rosales,24165754,22767857,N,Y,Execution,On track,0,N,0
+C0407,Electricity,"Sutton, Brown and Gibson",22561013,25628985,N,N,Completed,Cancelled,3,Y,3067972
+C0408,Housing,Henderson-Miller,21353537,22877144,N,Y,Planning,Cancelled,2,Y,1523607
+C0409,Water & Sanitation,Harris Inc,6839013,8196787,N,Y,Completed,Cancelled,2,Y,1357774
+C0410,Electricity,Clark-Ward,14363315,12738589,Y,Y,Execution,Delayed,2,Y,0
+C0411,Roads & Transport,Berg-Alvarez,8174037,6549752,N,Y,Execution,Delayed,1,N,0
+C0412,Roads & Transport,Richardson Inc,43381526,43556955,N,N,Completed,Cancelled,3,Y,175429
+C0413,Water & Sanitation,Fry-Griffin,28827993,29527476,N,Y,Planning,On track,1,Y,699483
+C0414,Waste Management,Fry-Griffin,34949361,28280083,N,Y,Completed,On track,0,N,0
+C0415,Roads & Transport,Gutierrez-Sanchez,36069234,52927656,N,Y,Completed,Delayed,2,Y,16858422
+C0416,Housing,"Chavez, Reed and Cox",31732286,31989908,N,N,Execution,Delayed,3,Y,257622
+C0417,Roads & Transport,"Finley, Burch and Reed",4955920,4140374,N,Y,Completed,On track,0,N,0
+C0418,Roads & Transport,Moyer-Robinson,5632410,6158738,N,Y,Planning,Delayed,2,Y,526328
+C0419,Waste Management,"Gomez, Gentry and Anthony",48106403,41915156,N,Y,Completed,Cancelled,1,N,0
+C0420,Roads & Transport,Reed-White,38037226,44888685,N,Y,Planning,Delayed,2,Y,6851459
+C0421,Waste Management,Fry-Griffin,46901033,38012287,Y,Y,Planning,On track,1,Y,0
+C0422,Roads & Transport,"Finley, Burch and Reed",32079500,37592258,N,N,Planning,Delayed,3,Y,5512758
+C0423,Roads & Transport,"Baker, Bonilla and Kim",38660290,44424233,N,Y,Planning,On track,1,Y,5763943
+C0424,Housing,Lane PLC,24874704,29226317,N,Y,Execution,On track,1,Y,4351613
+C0425,Electricity,Clark-Ward,12843293,12825112,N,Y,Completed,Cancelled,1,N,0
+C0426,Electricity,Sanchez-Jenkins,44790216,46765019,Y,Y,Completed,Cancelled,3,Y,1974803
+C0427,Roads & Transport,Henderson-Miller,3128631,2519677,N,N,Execution,Cancelled,2,Y,0
+C0428,Water & Sanitation,Moyer-Robinson,21736437,19536525,N,Y,Planning,Delayed,1,N,0
+C0429,Water & Sanitation,"Baker, Bonilla and Kim",27264495,26488949,N,Y,Completed,Delayed,1,N,0
+C0430,Waste Management,Contreras and Sons,666088,541826,Y,Y,Completed,Cancelled,2,Y,0
+C0431,Housing,"Parker, Abbott and Taylor",9422004,9086940,N,Y,Planning,Delayed,1,N,0
+C0432,Water & Sanitation,"Baker, Bonilla and Kim",26721905,27238392,Y,Y,Planning,Cancelled,3,Y,516487
+C0433,Housing,"Heath, Caldwell and Cruz",12224052,18764343,N,Y,Execution,On track,1,Y,6540291
+C0434,Housing,"Crawford, Olsen and Smith",46489268,49356253,Y,Y,Planning,Delayed,3,Y,2866985
+C0435,Waste Management,Contreras and Sons,46517810,54835864,N,Y,Completed,On track,1,Y,8318054
+C0436,Housing,Welch-Gibson,27631424,24595470,N,Y,Completed,Delayed,1,N,0
+C0437,Electricity,Paul-Rosales,33454320,29806588,N,Y,Planning,On track,0,N,0
+C0438,Waste Management,Lawrence-Coleman,44982342,45765722,Y,Y,Planning,Cancelled,3,Y,783380
+C0439,Waste Management,Williams-Moore,1479904,1267365,N,Y,Execution,Delayed,1,N,0
+C0440,Electricity,Holt and Sons,16474601,15893150,N,Y,Planning,On track,0,N,0
+C0441,Roads & Transport,Williams-Moore,24667790,27691110,N,N,Planning,Cancelled,3,Y,3023320
+C0442,Electricity,Mcconnell Ltd,21695966,20305492,N,Y,Completed,On track,0,N,0
+C0443,Electricity,Richardson Inc,36285155,36566522,N,Y,Completed,Delayed,2,Y,281367
+C0444,Housing,Mcconnell Ltd,19778933,17844500,N,Y,Completed,Cancelled,1,N,0
+C0445,Housing,"Sherman, Freeman and Tyler",3233211,2621704,Y,Y,Completed,Cancelled,2,Y,0
+C0446,Waste Management,"Baker, Bonilla and Kim",12856935,12294975,N,Y,Completed,Delayed,1,N,0
+C0447,Electricity,Gutierrez-Sanchez,41345272,34621008,N,Y,Planning,Delayed,1,N,0
+C0448,Housing,Lawrence-Coleman,33191145,49300028,N,Y,Execution,Delayed,2,Y,16108883
+C0449,Waste Management,Fry-Griffin,4563158,4007987,N,Y,Execution,Cancelled,1,N,0
+C0450,Water & Sanitation,Welch-Gibson,43491803,48593588,N,Y,Execution,Delayed,2,Y,5101785
+C0451,Water & Sanitation,Fry-Griffin,28280762,33750504,Y,Y,Execution,Delayed,3,Y,5469742
+C0452,Water & Sanitation,Johnson-Wilson,18646183,19796969,Y,Y,Planning,Cancelled,3,Y,1150786
+C0453,Waste Management,Sanchez-Jenkins,25539173,29184879,Y,Y,Execution,Delayed,3,Y,3645706
+C0454,Waste Management,Jimenez-Roberts,30881302,29865442,N,Y,Completed,On track,0,N,0
+C0455,Housing,Leonard-Reynolds,41637804,49916701,N,Y,Completed,On track,1,Y,8278897
+C0456,Roads & Transport,"Chavez, Reed and Cox",20829471,34322897,N,Y,Execution,Cancelled,2,Y,13493426
+C0457,Electricity,Fry-Griffin,28566841,50997444,Y,Y,Execution,On track,2,Y,22430603
+C0458,Roads & Transport,Guzman-Miller,28290067,23885285,N,Y,Planning,Cancelled,1,N,0
+C0459,Electricity,Reed-White,45931617,45183210,N,Y,Planning,Cancelled,1,N,0
+C0460,Housing,Gutierrez-Sanchez,633634,640080,N,N,Completed,Cancelled,3,Y,6446
+C0461,Waste Management,Berg-Alvarez,38988665,34931880,Y,Y,Execution,Delayed,2,Y,0
+C0462,Roads & Transport,Clark-Ward,16250865,17233376,N,Y,Execution,Delayed,2,Y,982511
+C0463,Waste Management,Fry-Griffin,40132875,47824018,N,N,Completed,Cancelled,3,Y,7691143
+C0464,Roads & Transport,Henderson-Miller,18579375,17203903,Y,Y,Execution,On track,1,Y,0
+C0465,Waste Management,"Sherman, Freeman and Tyler",46837861,41726530,N,Y,Execution,Delayed,1,N,0
+C0466,Roads & Transport,Martin LLC,9793374,11228638,N,Y,Completed,Cancelled,2,Y,1435264
+C0467,Electricity,Paul-Rosales,25893044,37367730,N,Y,Planning,Cancelled,2,Y,11474686
+C0468,Electricity,Rose LLC,1988806,1638055,N,Y,Execution,Cancelled,1,N,0
+C0469,Housing,"Castro, Trevino and Young",909178,767706,N,Y,Completed,Cancelled,1,N,0
+C0470,Water & Sanitation,Welch-Gibson,22384899,19061625,N,Y,Completed,Delayed,1,N,0
+C0471,Roads & Transport,"Castro, Trevino and Young",44424346,36286244,N,Y,Completed,Cancelled,1,N,0
+C0472,Waste Management,Harris Inc,10639669,9755377,N,Y,Completed,Cancelled,1,N,0
+C0473,Housing,Sanchez-Jenkins,34596200,41263561,N,Y,Execution,On track,1,Y,6667361
+C0474,Roads & Transport,Welch-Gibson,14007579,12783435,N,N,Planning,On track,1,Y,0
+C0475,Roads & Transport,Richardson Inc,2509381,2076102,N,N,Execution,On track,1,Y,0
+C0476,Electricity,"Castro, Trevino and Young",20160832,18558168,N,Y,Planning,On track,0,N,0
+C0477,Roads & Transport,"Crawford, Olsen and Smith",13174362,13695056,Y,Y,Completed,Cancelled,3,Y,520694
+C0478,Waste Management,Reed-White,9814177,10180134,N,Y,Completed,Delayed,2,Y,365957
+C0479,Waste Management,"Castro, Trevino and Young",3725654,4229589,N,Y,Completed,Delayed,2,Y,503935
+C0480,Electricity,Berg-Alvarez,9341354,10670427,N,N,Planning,Cancelled,3,Y,1329073
+C0481,Waste Management,Berg-Alvarez,14052275,13986929,N,Y,Completed,Delayed,1,N,0
+C0482,Water & Sanitation,Gonzalez PLC,6094376,6897095,N,Y,Execution,Cancelled,2,Y,802719
+C0483,Electricity,Gutierrez-Sanchez,7922636,6598627,N,Y,Completed,Delayed,1,N,0
+C0484,Housing,Clark-Cruz,35204616,30484728,Y,Y,Completed,On track,1,Y,0
+C0485,Roads & Transport,Rogers Inc,33369285,36073982,N,Y,Planning,Delayed,2,Y,2704697
+C0486,Waste Management,Gutierrez-Sanchez,45088955,50260664,N,Y,Execution,Delayed,2,Y,5171709
+C0487,Housing,Sanchez-Jenkins,25628279,28125436,N,Y,Completed,Delayed,2,Y,2497157
+C0488,Electricity,Williams-Moore,36316069,29095287,Y,Y,Completed,On track,1,Y,0
+C0489,Roads & Transport,Fry-Griffin,4954042,4511773,N,Y,Completed,Delayed,1,N,0
+C0490,Roads & Transport,Jimenez-Roberts,37026887,36248850,N,Y,Planning,Cancelled,1,N,0
+C0491,Waste Management,Miller PLC,24828252,29946130,N,N,Execution,On track,2,Y,5117878
+C0492,Electricity,"Long, Haney and Perry",15811072,17724753,N,Y,Execution,Cancelled,2,Y,1913681
+C0493,Electricity,Moyer-Robinson,42528797,47916041,N,Y,Planning,On track,1,Y,5387244
+C0494,Housing,Rose LLC,1600948,1605694,N,Y,Planning,Delayed,2,Y,4746
+C0495,Water & Sanitation,Contreras and Sons,36357426,42602565,Y,Y,Completed,Delayed,3,Y,6245139
+C0496,Electricity,Clark-Ward,47818418,55614943,N,Y,Planning,Delayed,2,Y,7796525
+C0497,Electricity,Reeves PLC,48591820,57416738,N,Y,Execution,On track,1,Y,8824918
+C0498,Roads & Transport,"Sutton, Brown and Gibson",9135949,12845927,Y,Y,Planning,On track,2,Y,3709978
+C0499,Roads & Transport,Rogers Inc,28851505,27510935,N,Y,Completed,On track,0,N,0
+C0500,Housing,Gutierrez-Sanchez,11144590,12264300,Y,N,Completed,On track,3,Y,1119710

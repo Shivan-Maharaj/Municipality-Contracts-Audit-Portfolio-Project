@@ -1,0 +1,501 @@
+contract_id;department;vendor;approved_budget;contract_value;deviation_flag;mbd_submitted;project_phase;status;risk_score;irregular_flag;irregular_amount
+C0001;Water & Sanitation;Reeves PLC; R49 748 910 ; R51 712 170 ;Y;Y;Completed;Delayed;3;Y;R1 963 260
+C0002;Electricity;Clark-Cruz; R48 240 618 ; R45 031 818 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0003;Water & Sanitation;Sherman, Freeman and Tyler; R41 059 284 ; R46 519 226 ;N;Y;Completed;Cancelled;2;Y;R5 459 942
+C0004;Water & Sanitation;Lee, Roberts and Lee; R49 618 868 ; R51 834 909 ;Y;N;Execution;On track;3;Y;R2 216 041
+C0005;Water & Sanitation;Harris Inc; R39 397 498 ; R33 716 282 ;N;Y;Planning;On track;0;N;R0
+C0006;Waste Management;Chavez, Reed and Cox; R12 748 637 ; R21 605 227 ;N;Y;Planning;Cancelled;2;Y;R8 856 590
+C0007;Electricity;Guzman-Miller; R2 528 388 ; R2 195 170 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0008;Waste Management;Gonzalez PLC; R3 485 357 ; R3 212 960 ;Y;Y;Planning;Delayed;2;Y;R0
+C0009;Waste Management;Long, Haney and Perry; R11 492 366 ; R11 998 014 ;N;Y;Planning;On track;1;Y;R505 648
+C0010;Housing;Paul-Rosales; R1 970 928 ; R2 099 055 ;N;Y;Execution;On track;1;Y;R128 127
+C0011;Electricity;Mcconnell Ltd; R22 435 235 ; R26 649 331 ;N;Y;Execution;On track;1;Y;R4 214 096
+C0012;Water & Sanitation;Clark-Ward; R18 148 957 ; R19 798 856 ;N;Y;Planning;Delayed;2;Y;R1 649 899
+C0013;Roads & Transport;Chavez, Reed and Cox; R22 473 627 ; R32 817 434 ;N;Y;Execution;On track;1;Y;R10 343 807
+C0014;Housing;Frye-Weaver; R2 730 708 ; R3 238 898 ;N;Y;Planning;Delayed;2;Y;R508 190
+C0015;Water & Sanitation;Jimenez-Roberts; R22 957 742 ; R18 509 784 ;N;Y;Execution;Cancelled;1;N;R0
+C0016;Waste Management;Fowler, Nelson and Oliver; R23 817 335 ; R32 369 518 ;N;Y;Completed;On track;1;Y;R8 552 183
+C0017;Water & Sanitation;Reed-White; R49 683 876 ; R52 686 312 ;N;Y;Completed;On track;1;Y;R3 002 436
+C0018;Roads & Transport;Harris Inc; R12 010 049 ; R17 974 895 ;N;Y;Planning;On track;1;Y;R5 964 846
+C0019;Housing;Long, Haney and Perry; R39 170 421 ; R38 735 079 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0020;Roads & Transport;Berg-Alvarez; R46 421 408 ; R41 519 027 ;N;N;Execution;Delayed;2;Y;R0
+C0021;Electricity;Cunningham, Fisher and Smith; R32 474 990 ; R26 310 186 ;Y;N;Execution;Cancelled;3;Y;R0
+C0022;Water & Sanitation;Chavez, Reed and Cox; R49 107 334 ; R50 350 251 ;N;N;Completed;On track;2;Y;R1 242 917
+C0023;Waste Management;Martin LLC; R45 916 038 ; R50 609 596 ;N;N;Planning;On track;2;Y;R4 693 558
+C0024;Housing;Clark-Ward; R36 613 466 ; R42 185 564 ;N;Y;Execution;Cancelled;2;Y;R5 572 098
+C0025;Waste Management;Clark-Cruz; R14 743 995 ; R12 895 511 ;N;Y;Completed;Delayed;1;N;R0
+C0026;Water & Sanitation;Clark-Cruz; R45 477 017 ; R42 862 958 ;N;Y;Planning;Delayed;1;N;R0
+C0027;Housing;Long, Haney and Perry; R30 444 474 ; R34 317 190 ;N;N;Planning;On track;2;Y;R3 872 716
+C0028;Waste Management;Guzman-Miller; R46 259 303 ; R45 978 601 ;N;Y;Execution;On track;0;N;R0
+C0029;Housing;Contreras and Sons; R41 978 167 ; R39 009 520 ;N;Y;Completed;Delayed;1;N;R0
+C0030;Electricity;Palmer and Sons; R18 373 392 ; R25 780 300 ;N;Y;Planning;On track;1;Y;R7 406 908
+C0031;Waste Management;Frye-Weaver; R39 380 002 ; R35 990 809 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0032;Waste Management;Moyer-Robinson; R11 606 305 ; R9 438 482 ;N;Y;Completed;Delayed;1;N;R0
+C0033;Roads & Transport;Clark-Cruz; R38 026 525 ; R37 866 095 ;N;Y;Planning;Cancelled;1;N;R0
+C0034;Housing;Harris Inc; R1 219 043 ; R1 823 351 ;N;Y;Planning;On track;1;Y;R604 308
+C0035;Electricity;Lawrence-Coleman; R6 759 908 ; R7 120 967 ;N;N;Planning;Cancelled;3;Y;R361 059
+C0036;Housing;Chavez, Reed and Cox; R30 927 104 ; R31 028 529 ;N;Y;Planning;Delayed;2;Y;R101 425
+C0037;Housing;Chavez, Reed and Cox; R24 535 642 ; R26 607 917 ;N;Y;Execution;Cancelled;2;Y;R2 072 275
+C0038;Roads & Transport;Jimenez-Roberts; R10 521 958 ; R11 325 573 ;N;Y;Planning;Cancelled;2;Y;R803 615
+C0039;Water & Sanitation;Sherman, Freeman and Tyler; R16 485 802 ; R13 936 922 ;N;Y;Completed;Delayed;1;N;R0
+C0040;Roads & Transport;Miller PLC; R34 209 026 ; R29 761 235 ;N;Y;Execution;Delayed;1;N;R0
+C0041;Electricity;Vargas Inc; R46 610 960 ; R39 024 611 ;N;Y;Planning;Cancelled;1;N;R0
+C0042;Roads & Transport;Sanchez-Jenkins; R34 895 514 ; R31 808 954 ;N;Y;Planning;Cancelled;1;N;R0
+C0043;Water & Sanitation;Lawrence-Coleman; R6 141 495 ; R7 211 675 ;N;Y;Execution;Cancelled;2;Y;R1 070 180
+C0044;Waste Management;Chavez, Reed and Cox; R11 102 109 ; R14 223 769 ;N;N;Planning;On track;2;Y;R3 121 660
+C0045;Roads & Transport;Mcconnell Ltd; R19 676 703 ; R19 563 473 ;N;Y;Planning;Cancelled;1;N;R0
+C0046;Waste Management;Mathis, Bailey and Lyons; R17 495 683 ; R15 656 880 ;N;Y;Completed;Delayed;1;N;R0
+C0047;Housing;Reeves PLC; R38 788 639 ; R42 216 622 ;N;Y;Planning;Delayed;2;Y;R3 427 983
+C0048;Roads & Transport;Holt and Sons; R37 956 186 ; R34 391 376 ;N;Y;Planning;On track;0;N;R0
+C0049;Waste Management;Harris Inc; R10 720 268 ; R12 461 663 ;N;Y;Planning;Cancelled;2;Y;R1 741 395
+C0050;Housing;Henderson-Miller; R19 334 400 ; R19 276 533 ;Y;Y;Completed;On track;1;Y;R0
+C0051;Electricity;Cunningham, Fisher and Smith; R40 920 227 ; R70 234 570 ;Y;Y;Execution;Cancelled;3;Y;R29 314 343
+C0052;Electricity;Palmer and Sons; R3 551 356 ; R4 096 125 ;N;Y;Completed;Cancelled;2;Y;R544 769
+C0053;Housing;Finley, Burch and Reed; R11 375 612 ; R13 499 005 ;N;Y;Completed;Cancelled;2;Y;R2 123 393
+C0054;Electricity;Guzman-Miller; R37 990 300 ; R43 326 214 ;N;Y;Execution;Delayed;2;Y;R5 335 914
+C0055;Roads & Transport;Gutierrez-Sanchez; R42 732 984 ; R48 616 685 ;N;N;Completed;Delayed;3;Y;R5 883 701
+C0056;Water & Sanitation;Holt and Sons; R24 983 825 ; R29 881 192 ;Y;Y;Planning;On track;2;Y;R4 897 367
+C0057;Roads & Transport;Reeves PLC; R10 292 257 ; R11 727 696 ;Y;Y;Completed;Cancelled;3;Y;R1 435 439
+C0058;Electricity;Lee, Roberts and Lee; R25 633 478 ; R28 805 478 ;N;Y;Planning;On track;1;Y;R3 172 000
+C0059;Water & Sanitation;Guzman-Miller; R30 124 204 ; R36 273 996 ;N;Y;Completed;On track;1;Y;R6 149 792
+C0060;Electricity;Henderson-Miller; R36 353 447 ; R40 654 680 ;N;Y;Planning;Delayed;2;Y;R4 301 233
+C0061;Water & Sanitation;Sanchez-Jenkins; R2 603 771 ; R2 539 691 ;N;Y;Planning;Delayed;1;N;R0
+C0062;Housing;Finley, Burch and Reed; R49 039 582 ; R55 688 044 ;N;Y;Completed;On track;1;Y;R6 648 462
+C0063;Waste Management;Leonard-Reynolds; R32 676 169 ; R30 848 795 ;Y;Y;Execution;On track;1;Y;R0
+C0064;Housing;Gonzalez PLC; R18 862 804 ; R22 373 185 ;N;Y;Planning;On track;1;Y;R3 510 381
+C0065;Water & Sanitation;Cunningham, Fisher and Smith; R29 649 535 ; R30 131 459 ;N;Y;Execution;Delayed;2;Y;R481 924
+C0066;Housing;Gonzalez PLC; R30 603 180 ; R33 230 097 ;Y;Y;Execution;Cancelled;3;Y;R2 626 917
+C0067;Water & Sanitation;Sherman, Freeman and Tyler; R6 419 707 ; R5 779 946 ;Y;N;Completed;Cancelled;3;Y;R0
+C0068;Water & Sanitation;Fry-Griffin; R27 757 342 ; R26 746 452 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0069;Roads & Transport;Crawford, Olsen and Smith; R1 143 233 ; R957 514 ;Y;Y;Planning;On track;1;Y;R0
+C0070;Electricity;Frye-Weaver; R7 574 447 ; R8 050 459 ;N;Y;Execution;On track;1;Y;R476 012
+C0071;Housing;Odom, Anthony and Lopez; R3 712 610 ; R3 498 723 ;N;N;Execution;Delayed;2;Y;R0
+C0072;Electricity;Henderson-Miller; R28 866 157 ; R36 813 748 ;N;Y;Execution;Cancelled;2;Y;R7 947 591
+C0073;Water & Sanitation;Fry-Griffin; R14 940 260 ; R12 536 875 ;N;Y;Completed;Cancelled;1;N;R0
+C0074;Water & Sanitation;Harris Inc; R5 798 848 ; R6 146 253 ;Y;Y;Planning;On track;2;Y;R347 405
+C0075;Housing;Gomez, Gentry and Anthony; R46 887 763 ; R49 248 278 ;N;Y;Execution;On track;1;Y;R2 360 515
+C0076;Housing;Fry-Griffin; R10 595 300 ; R11 086 291 ;N;Y;Planning;Delayed;2;Y;R490 991
+C0077;Water & Sanitation;Clark-Ward; R33 703 547 ; R39 638 475 ;N;Y;Execution;Delayed;2;Y;R5 934 928
+C0078;Roads & Transport;Moyer-Robinson; R11 538 459 ; R12 974 785 ;N;Y;Completed;Cancelled;2;Y;R1 436 326
+C0079;Waste Management;Cunningham, Fisher and Smith; R34 145 504 ; R39 681 864 ;Y;N;Completed;Delayed;4;Y;R5 536 360
+C0080;Electricity;Williams-Moore; R30 285 054 ; R24 700 043 ;N;Y;Execution;On track;0;N;R0
+C0081;Water & Sanitation;Lee, Roberts and Lee; R27 912 615 ; R29 940 339 ;N;Y;Completed;Cancelled;2;Y;R2 027 724
+C0082;Water & Sanitation;Lane PLC; R37 852 003 ; R35 555 697 ;N;N;Execution;On track;1;Y;R0
+C0083;Water & Sanitation;Lee, Roberts and Lee; R28 472 244 ; R29 018 590 ;N;Y;Execution;Cancelled;2;Y;R546 346
+C0084;Waste Management;Berg-Alvarez; R26 428 752 ; R22 492 873 ;N;Y;Planning;Cancelled;1;N;R0
+C0085;Water & Sanitation;Odom, Anthony and Lopez; R33 349 942 ; R38 131 159 ;N;Y;Planning;Cancelled;2;Y;R4 781 217
+C0086;Water & Sanitation;Sherman, Freeman and Tyler; R19 611 512 ; R18 652 343 ;N;Y;Planning;Delayed;1;N;R0
+C0087;Water & Sanitation;Leonard-Reynolds; R32 525 301 ; R27 321 056 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0088;Waste Management;Reed-White; R14 673 458 ; R21 356 497 ;N;Y;Completed;On track;1;Y;R6 683 039
+C0089;Housing;Cunningham, Fisher and Smith; R47 077 874 ; R39 230 640 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0090;Waste Management;Baker, Bonilla and Kim; R29 426 259 ; R32 396 834 ;N;Y;Execution;On track;1;Y;R2 970 575
+C0091;Roads & Transport;Holt and Sons; R38 987 092 ; R32 087 293 ;N;Y;Execution;Delayed;1;N;R0
+C0092;Electricity;Cunningham, Fisher and Smith; R30 873 482 ; R36 661 048 ;N;Y;Completed;Delayed;2;Y;R5 787 566
+C0093;Housing;Baker, Bonilla and Kim; R32 285 232 ; R26 914 348 ;N;N;Planning;On track;1;Y;R0
+C0094;Housing;Wood, Beck and Wallace; R40 301 137 ; R34 604 246 ;N;Y;Completed;On track;0;N;R0
+C0095;Water & Sanitation;Frye-Weaver; R13 759 783 ; R13 047 808 ;N;Y;Planning;Cancelled;1;N;R0
+C0096;Roads & Transport;Castro, Trevino and Young; R7 083 896 ; R6 659 480 ;N;Y;Execution;On track;0;N;R0
+C0097;Electricity;Fowler, Nelson and Oliver; R12 931 595 ; R12 539 622 ;N;N;Execution;On track;1;Y;R0
+C0098;Housing;Frye-Weaver; R35 533 922 ; R34 186 505 ;N;Y;Completed;Delayed;1;N;R0
+C0099;Waste Management;Johnson-Wilson; R6 842 471 ; R7 250 857 ;N;Y;Completed;On track;1;Y;R408 386
+C0100;Waste Management;Welch-Gibson; R38 958 941 ; R38 611 659 ;Y;Y;Completed;On track;1;Y;R0
+C0101;Electricity;Palmer and Sons; R43 468 581 ; R51 778 046 ;N;Y;Planning;On track;1;Y;R8 309 465
+C0102;Waste Management;Sutton, Brown and Gibson; R11 989 876 ; R9 945 825 ;N;Y;Execution;Delayed;1;N;R0
+C0103;Waste Management;Finley, Burch and Reed; R32 195 633 ; R28 548 628 ;N;Y;Completed;Delayed;1;N;R0
+C0104;Electricity;Sherman, Freeman and Tyler; R40 580 309 ; R47 091 955 ;Y;Y;Completed;Delayed;3;Y;R6 511 646
+C0105;Waste Management;Gomez, Gentry and Anthony; R47 296 943 ; R46 458 022 ;N;Y;Execution;On track;0;N;R0
+C0106;Water & Sanitation;Lawrence-Coleman; R2 767 867 ; R2 644 163 ;N;Y;Execution;Delayed;1;N;R0
+C0107;Water & Sanitation;Mathis, Bailey and Lyons; R4 266 500 ; R5 096 267 ;N;Y;Execution;On track;1;Y;R829 767
+C0108;Roads & Transport;Berg-Alvarez; R21 388 948 ; R22 969 430 ;Y;Y;Completed;Delayed;3;Y;R1 580 482
+C0109;Waste Management;Guzman-Miller; R43 209 628 ; R41 768 829 ;N;Y;Execution;Cancelled;1;N;R0
+C0110;Water & Sanitation;Miller PLC; R19 957 417 ; R22 879 692 ;Y;N;Planning;Cancelled;4;Y;R2 922 275
+C0111;Electricity;Frye-Weaver; R6 385 088 ; R6 334 952 ;N;Y;Planning;Delayed;1;N;R0
+C0112;Waste Management;Jimenez-Roberts; R25 401 054 ; R28 745 501 ;N;N;Planning;Delayed;3;Y;R3 344 447
+C0113;Electricity;Reed-White; R24 030 984 ; R21 852 883 ;Y;Y;Execution;Delayed;2;Y;R0
+C0114;Water & Sanitation;Rose LLC; R1 822 320 ; R2 004 486 ;N;Y;Planning;Cancelled;2;Y;R182 166
+C0115;Electricity;Cunningham, Fisher and Smith; R31 757 524 ; R36 199 098 ;N;Y;Planning;Delayed;2;Y;R4 441 574
+C0116;Waste Management;Gonzalez PLC; R17 964 557 ; R16 345 819 ;N;Y;Completed;Cancelled;1;N;R0
+C0117;Electricity;Holt and Sons; R30 161 031 ; R28 449 847 ;Y;Y;Planning;On track;1;Y;R0
+C0118;Housing;Reeves PLC; R20 212 033 ; R22 891 109 ;N;Y;Planning;Cancelled;2;Y;R2 679 076
+C0119;Roads & Transport;Gonzalez PLC; R44 266 109 ; R42 557 133 ;Y;N;Completed;Cancelled;3;Y;R0
+C0120;Electricity;Long, Haney and Perry; R22 164 334 ; R23 399 874 ;N;Y;Planning;Cancelled;2;Y;R1 235 540
+C0121;Water & Sanitation;Clark-Ward; R33 981 791 ; R50 309 023 ;N;Y;Planning;Delayed;2;Y;R16 327 232
+C0122;Electricity;Williams-Moore; R32 943 745 ; R33 128 091 ;N;Y;Execution;Delayed;2;Y;R184 346
+C0123;Roads & Transport;Clark-Cruz; R34 362 121 ; R40 540 713 ;Y;Y;Planning;On track;2;Y;R6 178 592
+C0124;Electricity;Contreras and Sons; R33 348 585 ; R27 562 418 ;Y;Y;Execution;Delayed;2;Y;R0
+C0125;Water & Sanitation;Richardson Inc; R15 834 209 ; R16 679 127 ;N;N;Execution;Delayed;3;Y;R844 918
+C0126;Waste Management;Contreras and Sons; R16 763 288 ; R17 331 671 ;N;Y;Completed;Cancelled;2;Y;R568 383
+C0127;Roads & Transport;Reeves PLC; R35 285 539 ; R33 107 253 ;N;Y;Planning;Delayed;1;N;R0
+C0128;Electricity;Lee, Roberts and Lee; R48 666 364 ; R50 650 694 ;N;Y;Execution;On track;1;Y;R1 984 330
+C0129;Water & Sanitation;Chavez, Reed and Cox; R5 823 601 ; R5 071 216 ;Y;N;Execution;Delayed;3;Y;R0
+C0130;Roads & Transport;Moyer-Robinson; R32 972 680 ; R38 172 039 ;Y;Y;Completed;Cancelled;3;Y;R5 199 359
+C0131;Water & Sanitation;Clark-Ward; R39 110 202 ; R71 944 324 ;N;N;Completed;On track;2;Y;R32 834 122
+C0132;Roads & Transport;Reed-White; R3 225 354 ; R2 659 082 ;N;Y;Completed;Delayed;1;N;R0
+C0133;Water & Sanitation;Clark, Lucas and Abbott; R15 252 994 ; R13 479 676 ;N;Y;Completed;Cancelled;1;N;R0
+C0134;Electricity;Fowler, Nelson and Oliver; R38 238 329 ; R38 716 549 ;N;N;Execution;On track;2;Y;R478 220
+C0135;Roads & Transport;Wood, Beck and Wallace; R30 654 810 ; R33 270 886 ;N;Y;Execution;Cancelled;2;Y;R2 616 076
+C0136;Water & Sanitation;Martin LLC; R3 808 654 ; R7 212 722 ;N;Y;Execution;Cancelled;2;Y;R3 404 068
+C0137;Roads & Transport;Cunningham, Fisher and Smith; R47 856 479 ; R45 507 379 ;Y;Y;Execution;Delayed;2;Y;R0
+C0138;Housing;Heath, Caldwell and Cruz; R35 847 046 ; R58 368 614 ;N;Y;Execution;Cancelled;2;Y;R22 521 568
+C0139;Electricity;Williams-Moore; R22 519 480 ; R25 124 274 ;N;N;Execution;Cancelled;3;Y;R2 604 794
+C0140;Housing;Sherman, Freeman and Tyler; R25 253 646 ; R25 836 927 ;N;Y;Completed;On track;1;Y;R583 281
+C0141;Waste Management;Leonard-Reynolds; R16 303 305 ; R15 410 420 ;N;Y;Execution;Delayed;1;N;R0
+C0142;Waste Management;Mathis, Bailey and Lyons; R9 292 300 ; R10 904 297 ;Y;Y;Execution;Delayed;3;Y;R1 611 997
+C0143;Electricity;Moyer-Robinson; R25 791 717 ; R22 291 073 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0144;Roads & Transport;Vargas Inc; R6 536 446 ; R12 248 327 ;Y;N;Execution;Delayed;4;Y;R5 711 881
+C0145;Electricity;Sanchez-Jenkins; R40 736 644 ; R34 414 950 ;N;Y;Execution;Cancelled;1;N;R0
+C0146;Electricity;Cunningham, Fisher and Smith; R26 437 283 ; R52 347 240 ;N;Y;Planning;Delayed;2;Y;R25 909 957
+C0147;Waste Management;Cunningham, Fisher and Smith; R36 012 253 ; R36 829 916 ;N;Y;Completed;Cancelled;2;Y;R817 663
+C0148;Roads & Transport;Harris Inc; R16 712 651 ; R19 841 219 ;N;Y;Planning;Cancelled;2;Y;R3 128 568
+C0149;Roads & Transport;Clark-Cruz; R8 140 979 ; R6 886 736 ;N;Y;Planning;On track;0;N;R0
+C0150;Water & Sanitation;Reed-White; R13 471 172 ; R15 799 067 ;N;Y;Planning;Delayed;2;Y;R2 327 895
+C0151;Waste Management;Richardson Inc; R42 428 965 ; R36 224 402 ;Y;Y;Planning;Delayed;2;Y;R0
+C0152;Housing;Lawrence-Coleman; R42 421 932 ; R35 428 559 ;Y;N;Completed;On track;2;Y;R0
+C0153;Housing;Gomez, Gentry and Anthony; R31 543 720 ; R31 185 082 ;N;Y;Execution;On track;0;N;R0
+C0154;Electricity;Johnson-Wilson; R32 974 288 ; R36 218 621 ;N;Y;Completed;On track;1;Y;R3 244 333
+C0155;Water & Sanitation;Richardson Inc; R28 251 242 ; R24 649 017 ;Y;Y;Execution;On track;1;Y;R0
+C0156;Electricity;Heath, Caldwell and Cruz; R5 338 331 ; R4 569 125 ;N;Y;Completed;Delayed;1;N;R0
+C0157;Water & Sanitation;Jimenez-Roberts; R31 908 285 ; R27 905 773 ;N;Y;Planning;On track;0;N;R0
+C0158;Housing;Castro, Trevino and Young; R7 041 245 ; R8 103 629 ;N;Y;Execution;Cancelled;2;Y;R1 062 384
+C0159;Waste Management;Jimenez-Roberts; R7 121 862 ; R8 260 412 ;N;Y;Completed;Delayed;2;Y;R1 138 550
+C0160;Housing;Wood, Beck and Wallace; R5 445 854 ; R4 862 521 ;N;Y;Completed;Cancelled;1;N;R0
+C0161;Housing;Jimenez-Roberts; R17 791 444 ; R18 675 593 ;Y;Y;Execution;On track;2;Y;R884 149
+C0162;Housing;Gutierrez-Sanchez; R11 730 982 ; R12 639 981 ;Y;Y;Execution;On track;2;Y;R908 999
+C0163;Roads & Transport;Richardson Inc; R47 553 472 ; R55 045 855 ;N;Y;Completed;Delayed;2;Y;R7 492 383
+C0164;Electricity;Long, Haney and Perry; R16 659 100 ; R18 284 670 ;Y;Y;Execution;On track;2;Y;R1 625 570
+C0165;Roads & Transport;Holt and Sons; R41 359 524 ; R38 746 954 ;N;N;Execution;Delayed;2;Y;R0
+C0166;Roads & Transport;Frye-Weaver; R11 706 243 ; R12 193 025 ;N;Y;Planning;On track;1;Y;R486 782
+C0167;Electricity;Clark-Cruz; R8 614 716 ; R9 380 573 ;N;Y;Execution;Cancelled;2;Y;R765 857
+C0168;Electricity;Guzman-Miller; R27 795 858 ; R30 199 411 ;N;Y;Planning;On track;1;Y;R2 403 553
+C0169;Housing;Gonzalez PLC; R25 654 173 ; R26 509 912 ;N;Y;Execution;Cancelled;2;Y;R855 739
+C0170;Housing;Gonzalez PLC; R42 119 117 ; R49 057 860 ;Y;N;Planning;On track;3;Y;R6 938 743
+C0171;Housing;Clark-Ward; R25 936 512 ; R49 219 696 ;N;Y;Completed;Cancelled;2;Y;R23 283 184
+C0172;Water & Sanitation;Mcconnell Ltd; R39 402 467 ; R31 884 832 ;N;Y;Completed;Delayed;1;N;R0
+C0173;Housing;Mathis, Bailey and Lyons; R27 680 296 ; R30 298 234 ;N;Y;Execution;Delayed;2;Y;R2 617 938
+C0174;Housing;Gonzalez PLC; R16 691 661 ; R14 458 453 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0175;Waste Management;Chavez, Reed and Cox; R17 371 808 ; R17 502 708 ;N;Y;Planning;Delayed;2;Y;R130 900
+C0176;Electricity;Long, Haney and Perry; R33 972 840 ; R29 971 923 ;N;Y;Execution;Delayed;1;N;R0
+C0177;Water & Sanitation;Clark-Ward; R21 112 258 ; R21 428 060 ;N;Y;Execution;Cancelled;2;Y;R315 802
+C0178;Housing;Martin LLC; R13 857 649 ; R16 177 168 ;N;N;Planning;Delayed;3;Y;R2 319 519
+C0179;Electricity;Wood, Beck and Wallace; R28 015 002 ; R24 388 594 ;N;Y;Completed;On track;0;N;R0
+C0180;Housing;Lee, Roberts and Lee; R37 019 127 ; R41 172 609 ;N;Y;Completed;Cancelled;2;Y;R4 153 482
+C0181;Water & Sanitation;Harris Inc; R41 141 777 ; R35 843 308 ;N;N;Completed;Delayed;2;Y;R0
+C0182;Electricity;Vargas Inc; R36 066 581 ; R36 572 518 ;Y;Y;Planning;On track;2;Y;R505 937
+C0183;Roads & Transport;Clark-Ward; R19 755 820 ; R19 177 281 ;N;Y;Execution;On track;0;N;R0
+C0184;Housing;Baker, Bonilla and Kim; R13 791 164 ; R13 116 643 ;N;Y;Execution;Delayed;1;N;R0
+C0185;Roads & Transport;Mcconnell Ltd; R42 631 405 ; R43 102 869 ;N;Y;Execution;Delayed;2;Y;R471 464
+C0186;Water & Sanitation;Rogers Inc; R39 748 899 ; R45 501 131 ;N;Y;Planning;Cancelled;2;Y;R5 752 232
+C0187;Waste Management;Fry-Griffin; R22 088 809 ; R22 323 643 ;N;Y;Execution;On track;1;Y;R234 834
+C0188;Water & Sanitation;Richardson Inc; R32 822 310 ; R26 613 589 ;N;Y;Completed;On track;0;N;R0
+C0189;Water & Sanitation;Holt and Sons; R176 218 ; R182 917 ;N;Y;Planning;On track;1;Y;R6 699
+C0190;Waste Management;Sutton, Brown and Gibson; R42 390 779 ; R35 598 782 ;N;Y;Planning;On track;0;N;R0
+C0191;Housing;Cunningham, Fisher and Smith; R42 942 925 ; R41 176 829 ;N;Y;Planning;Cancelled;1;N;R0
+C0192;Electricity;Vargas Inc; R49 449 430 ; R39 816 719 ;Y;Y;Completed;Delayed;2;Y;R0
+C0193;Roads & Transport;Berg-Alvarez; R46 946 098 ; R54 015 130 ;N;Y;Completed;Cancelled;2;Y;R7 069 032
+C0194;Water & Sanitation;Richardson Inc; R18 886 176 ; R17 691 189 ;N;Y;Planning;Delayed;1;N;R0
+C0195;Water & Sanitation;Lee, Roberts and Lee; R12 890 902 ; R13 531 058 ;N;Y;Planning;Delayed;2;Y;R640 156
+C0196;Waste Management;Sherman, Freeman and Tyler; R7 371 476 ; R8 693 781 ;N;N;Execution;Delayed;3;Y;R1 322 305
+C0197;Electricity;Henderson-Miller; R39 154 025 ; R46 755 658 ;N;Y;Completed;Cancelled;2;Y;R7 601 633
+C0198;Electricity;Crawford, Olsen and Smith; R1 832 465 ; R2 592 831 ;N;Y;Completed;Delayed;2;Y;R760 366
+C0199;Waste Management;Miller PLC; R33 977 350 ; R35 948 772 ;N;N;Completed;On track;2;Y;R1 971 422
+C0200;Roads & Transport;Frye-Weaver; R42 823 356 ; R38 923 130 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0201;Roads & Transport;Henderson-Miller; R36 074 996 ; R36 047 445 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0202;Roads & Transport;Mathis, Bailey and Lyons; R7 044 121 ; R5 935 598 ;Y;Y;Execution;Delayed;2;Y;R0
+C0203;Water & Sanitation;Moyer-Robinson; R3 851 198 ; R4 001 260 ;N;Y;Execution;Cancelled;2;Y;R150 062
+C0204;Housing;Guzman-Miller; R15 116 390 ; R17 160 772 ;N;Y;Planning;Delayed;2;Y;R2 044 382
+C0205;Electricity;Martin LLC; R791 757 ; R1 055 433 ;N;N;Completed;Cancelled;3;Y;R263 676
+C0206;Roads & Transport;Wood, Beck and Wallace; R40 481 731 ; R33 490 531 ;N;Y;Completed;Delayed;1;N;R0
+C0207;Housing;Moyer-Robinson; R39 887 171 ; R36 650 274 ;N;Y;Completed;Cancelled;1;N;R0
+C0208;Roads & Transport;Baker, Bonilla and Kim; R31 973 646 ; R27 305 510 ;N;Y;Planning;On track;0;N;R0
+C0209;Roads & Transport;Gutierrez-Sanchez; R37 005 710 ; R38 413 080 ;Y;Y;Planning;Delayed;3;Y;R1 407 370
+C0210;Waste Management;Wood, Beck and Wallace; R13 383 692 ; R14 043 949 ;N;Y;Completed;Delayed;2;Y;R660 257
+C0211;Roads & Transport;Reeves PLC; R33 558 471 ; R33 497 949 ;N;Y;Execution;Delayed;1;N;R0
+C0212;Electricity;Gomez, Gentry and Anthony; R28 456 738 ; R34 201 342 ;N;N;Planning;Delayed;3;Y;R5 744 604
+C0213;Roads & Transport;Paul-Rosales; R40 231 083 ; R33 658 644 ;N;N;Execution;Cancelled;2;Y;R0
+C0214;Roads & Transport;Jimenez-Roberts; R13 243 608 ; R11 575 617 ;N;Y;Planning;Cancelled;1;N;R0
+C0215;Electricity;Harris Inc; R41 701 684 ; R45 439 878 ;N;Y;Planning;Cancelled;2;Y;R3 738 194
+C0216;Housing;Gomez, Gentry and Anthony; R21 789 432 ; R23 473 103 ;Y;Y;Completed;On track;2;Y;R1 683 671
+C0217;Housing;Johnson-Wilson; R10 623 401 ; R12 745 333 ;N;Y;Completed;Delayed;2;Y;R2 121 932
+C0218;Housing;Reeves PLC; R1 624 102 ; R2 855 067 ;N;Y;Planning;Delayed;2;Y;R1 230 965
+C0219;Electricity;Contreras and Sons; R10 013 841 ; R11 196 843 ;N;N;Completed;On track;2;Y;R1 183 002
+C0220;Roads & Transport;Cunningham, Fisher and Smith; R8 770 178 ; R9 924 036 ;Y;Y;Completed;Delayed;3;Y;R1 153 858
+C0221;Housing;Jimenez-Roberts; R48 456 322 ; R48 089 253 ;N;Y;Completed;Delayed;1;N;R0
+C0222;Housing;Lane PLC; R15 270 521 ; R12 615 626 ;N;Y;Completed;Delayed;1;N;R0
+C0223;Roads & Transport;Heath, Caldwell and Cruz; R40 786 940 ; R44 667 503 ;N;Y;Execution;Delayed;2;Y;R3 880 563
+C0224;Roads & Transport;Palmer and Sons; R7 252 747 ; R5 872 986 ;N;N;Planning;On track;1;Y;R0
+C0225;Electricity;Baker, Bonilla and Kim; R38 599 601 ; R43 212 766 ;N;Y;Planning;Cancelled;2;Y;R4 613 165
+C0226;Waste Management;Mcconnell Ltd; R6 814 301 ; R8 382 117 ;N;Y;Completed;On track;1;Y;R1 567 816
+C0227;Electricity;Finley, Burch and Reed; R26 135 947 ; R28 940 578 ;N;Y;Completed;Delayed;2;Y;R2 804 631
+C0228;Roads & Transport;Martin LLC; R13 875 236 ; R11 118 761 ;N;Y;Completed;Cancelled;1;N;R0
+C0229;Waste Management;Parker, Abbott and Taylor; R39 063 185 ; R34 900 733 ;Y;N;Planning;On track;2;Y;R0
+C0230;Roads & Transport;Clark-Cruz; R14 476 941 ; R18 640 133 ;N;N;Execution;On track;2;Y;R4 163 192
+C0231;Roads & Transport;Mathis, Bailey and Lyons; R14 233 434 ; R15 863 703 ;Y;Y;Completed;Cancelled;3;Y;R1 630 269
+C0232;Electricity;Long, Haney and Perry; R17 787 991 ; R18 505 191 ;N;Y;Planning;On track;1;Y;R717 200
+C0233;Waste Management;Parker, Abbott and Taylor; R38 659 430 ; R34 510 062 ;N;Y;Completed;On track;0;N;R0
+C0234;Housing;Crawford, Olsen and Smith; R10 912 658 ; R9 737 014 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0235;Roads & Transport;Rogers Inc; R17 903 769 ; R16 830 439 ;Y;Y;Execution;Delayed;2;Y;R0
+C0236;Roads & Transport;Odom, Anthony and Lopez; R37 835 088 ; R39 307 237 ;N;Y;Planning;Delayed;2;Y;R1 472 149
+C0237;Housing;Miller PLC; R35 483 985 ; R42 528 773 ;N;Y;Planning;Delayed;2;Y;R7 044 788
+C0238;Housing;Henderson-Miller; R21 865 239 ; R17 797 125 ;N;Y;Completed;Cancelled;1;N;R0
+C0239;Water & Sanitation;Sutton, Brown and Gibson; R18 598 826 ; R16 855 000 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0240;Roads & Transport;Harris Inc; R10 951 224 ; R8 916 146 ;N;Y;Planning;On track;0;N;R0
+C0241;Waste Management;Mcconnell Ltd; R3 697 706 ; R5 645 519 ;N;Y;Execution;Cancelled;2;Y;R1 947 813
+C0242;Waste Management;Wood, Beck and Wallace; R20 157 988 ; R32 778 541 ;N;N;Planning;Cancelled;3;Y;R12 620 553
+C0243;Housing;Gutierrez-Sanchez; R16 656 827 ; R31 330 917 ;N;Y;Execution;Delayed;2;Y;R14 674 090
+C0244;Waste Management;Moyer-Robinson; R1 232 658 ; R1 157 618 ;N;Y;Execution;Cancelled;1;N;R0
+C0245;Waste Management;Fry-Griffin; R6 126 988 ; R6 179 092 ;N;Y;Completed;Cancelled;2;Y;R52 104
+C0246;Water & Sanitation;Mcconnell Ltd; R4 784 346 ; R5 183 098 ;N;Y;Planning;Cancelled;2;Y;R398 752
+C0247;Electricity;Palmer and Sons; R35 601 225 ; R38 434 950 ;Y;Y;Completed;On track;2;Y;R2 833 725
+C0248;Electricity;Holt and Sons; R35 277 004 ; R28 634 305 ;N;N;Planning;Cancelled;2;Y;R0
+C0249;Water & Sanitation;Berg-Alvarez; R30 138 378 ; R35 065 415 ;Y;Y;Planning;Delayed;3;Y;R4 927 037
+C0250;Housing;Heath, Caldwell and Cruz; R28 600 556 ; R22 953 500 ;N;Y;Completed;Delayed;1;N;R0
+C0251;Roads & Transport;Reed-White; R29 363 888 ; R27 915 606 ;Y;Y;Planning;Delayed;2;Y;R0
+C0252;Roads & Transport;Heath, Caldwell and Cruz; R14 912 143 ; R16 469 137 ;N;Y;Execution;On track;1;Y;R1 556 994
+C0253;Electricity;Palmer and Sons; R6 655 035 ; R7 805 099 ;Y;Y;Completed;Cancelled;3;Y;R1 150 064
+C0254;Electricity;Moyer-Robinson; R1 756 671 ; R2 070 973 ;Y;Y;Planning;Cancelled;3;Y;R314 302
+C0255;Electricity;Johnson-Wilson; R23 494 704 ; R22 046 331 ;N;N;Planning;Delayed;2;Y;R0
+C0256;Electricity;Henderson-Miller; R24 896 429 ; R29 565 782 ;N;N;Planning;On track;2;Y;R4 669 353
+C0257;Roads & Transport;Chavez, Reed and Cox; R35 590 172 ; R29 406 395 ;N;Y;Completed;Cancelled;1;N;R0
+C0258;Roads & Transport;Gutierrez-Sanchez; R27 096 639 ; R29 083 314 ;N;Y;Planning;Delayed;2;Y;R1 986 675
+C0259;Roads & Transport;Heath, Caldwell and Cruz; R29 321 379 ; R28 751 219 ;Y;Y;Execution;Delayed;2;Y;R0
+C0260;Waste Management;Frye-Weaver; R26 652 476 ; R30 276 649 ;N;Y;Execution;Delayed;2;Y;R3 624 173
+C0261;Water & Sanitation;Chavez, Reed and Cox; R27 309 162 ; R32 234 244 ;Y;Y;Planning;Delayed;3;Y;R4 925 082
+C0262;Roads & Transport;Chavez, Reed and Cox; R26 367 668 ; R30 136 768 ;N;Y;Execution;On track;1;Y;R3 769 100
+C0263;Water & Sanitation;Clark-Cruz; R20 710 500 ; R19 959 404 ;N;Y;Completed;Cancelled;1;N;R0
+C0264;Waste Management;Reeves PLC; R42 962 524 ; R49 288 718 ;N;Y;Completed;Delayed;2;Y;R6 326 194
+C0265;Waste Management;Reed-White; R12 050 571 ; R14 307 370 ;Y;Y;Planning;Delayed;3;Y;R2 256 799
+C0266;Waste Management;Johnson-Wilson; R47 223 764 ; R46 349 059 ;N;N;Execution;Delayed;2;Y;R0
+C0267;Electricity;Lee, Roberts and Lee; R26 921 567 ; R31 356 475 ;N;Y;Execution;Cancelled;2;Y;R4 434 908
+C0268;Housing;Harris Inc; R38 635 694 ; R32 721 468 ;Y;Y;Execution;Delayed;2;Y;R0
+C0269;Housing;Paul-Rosales; R36 310 403 ; R32 324 103 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0270;Water & Sanitation;Berg-Alvarez; R14 567 188 ; R14 178 225 ;N;N;Execution;Delayed;2;Y;R0
+C0271;Housing;Parker, Abbott and Taylor; R49 378 740 ; R74 759 157 ;N;Y;Completed;Delayed;2;Y;R25 380 417
+C0272;Waste Management;Reed-White; R44 821 695 ; R49 430 427 ;N;Y;Execution;On track;1;Y;R4 608 732
+C0273;Roads & Transport;Palmer and Sons; R23 873 962 ; R20 101 209 ;N;Y;Execution;On track;0;N;R0
+C0274;Housing;Sanchez-Jenkins; R8 133 951 ; R12 899 511 ;N;Y;Planning;Cancelled;2;Y;R4 765 560
+C0275;Waste Management;Vargas Inc; R43 821 639 ; R64 030 822 ;N;N;Execution;On track;2;Y;R20 209 183
+C0276;Electricity;Clark, Lucas and Abbott; R29 636 204 ; R55 111 817 ;N;Y;Execution;Cancelled;2;Y;R25 475 613
+C0277;Housing;Lawrence-Coleman; R37 536 581 ; R40 381 327 ;N;Y;Execution;On track;1;Y;R2 844 746
+C0278;Electricity;Long, Haney and Perry; R48 343 574 ; R57 075 389 ;Y;Y;Completed;On track;2;Y;R8 731 815
+C0279;Roads & Transport;Gutierrez-Sanchez; R4 509 352 ; R3 701 224 ;N;Y;Completed;Delayed;1;N;R0
+C0280;Water & Sanitation;Reeves PLC; R49 896 359 ; R52 397 257 ;N;Y;Completed;Cancelled;2;Y;R2 500 898
+C0281;Electricity;Guzman-Miller; R200 734 ; R384 576 ;N;Y;Planning;Delayed;2;Y;R183 842
+C0282;Waste Management;Mathis, Bailey and Lyons; R12 781 730 ; R17 015 033 ;N;Y;Completed;Delayed;2;Y;R4 233 303
+C0283;Water & Sanitation;Clark-Cruz; R41 628 843 ; R47 819 610 ;N;Y;Planning;Delayed;2;Y;R6 190 767
+C0284;Water & Sanitation;Johnson-Wilson; R37 770 243 ; R43 387 928 ;N;N;Planning;Delayed;3;Y;R5 617 685
+C0285;Roads & Transport;Sanchez-Jenkins; R23 389 643 ; R25 440 463 ;N;Y;Completed;Delayed;2;Y;R2 050 820
+C0286;Housing;Rogers Inc; R26 055 176 ; R21 693 815 ;N;Y;Execution;On track;0;N;R0
+C0287;Housing;Jimenez-Roberts; R2 046 830 ; R2 016 228 ;N;Y;Planning;Delayed;1;N;R0
+C0288;Electricity;Chavez, Reed and Cox; R35 883 612 ; R37 731 830 ;N;Y;Completed;Cancelled;2;Y;R1 848 218
+C0289;Electricity;Henderson-Miller; R20 908 635 ; R39 593 118 ;N;Y;Execution;Delayed;2;Y;R18 684 483
+C0290;Roads & Transport;Sanchez-Jenkins; R28 050 196 ; R29 241 641 ;N;Y;Execution;On track;1;Y;R1 191 445
+C0291;Roads & Transport;Martin LLC; R48 215 625 ; R44 046 989 ;N;Y;Execution;Cancelled;1;N;R0
+C0292;Waste Management;Cunningham, Fisher and Smith; R28 275 911 ; R25 287 623 ;N;Y;Execution;On track;0;N;R0
+C0293;Housing;Frye-Weaver; R34 912 381 ; R31 247 186 ;N;Y;Execution;Delayed;1;N;R0
+C0294;Roads & Transport;Jimenez-Roberts; R45 777 380 ; R70 942 684 ;Y;Y;Completed;Delayed;3;Y;R25 165 304
+C0295;Housing;Baker, Bonilla and Kim; R5 640 070 ; R5 849 769 ;Y;Y;Planning;Cancelled;3;Y;R209 699
+C0296;Electricity;Leonard-Reynolds; R2 944 664 ; R3 366 323 ;Y;Y;Execution;On track;2;Y;R421 659
+C0297;Housing;Reed-White; R21 420 139 ; R25 445 591 ;N;Y;Execution;Cancelled;2;Y;R4 025 452
+C0298;Housing;Guzman-Miller; R47 330 658 ; R44 129 010 ;N;Y;Execution;Delayed;1;N;R0
+C0299;Electricity;Gomez, Gentry and Anthony; R22 139 912 ; R19 914 534 ;N;Y;Planning;On track;0;N;R0
+C0300;Waste Management;Lee, Roberts and Lee; R46 450 911 ; R44 209 349 ;N;Y;Execution;On track;0;N;R0
+C0301;Housing;Crawford, Olsen and Smith; R9 814 891 ; R11 166 089 ;N;Y;Completed;Delayed;2;Y;R1 351 198
+C0302;Water & Sanitation;Martin LLC; R38 309 230 ; R38 920 734 ;Y;Y;Planning;Delayed;3;Y;R611 504
+C0303;Electricity;Henderson-Miller; R20 809 657 ; R27 004 440 ;N;Y;Execution;Delayed;2;Y;R6 194 783
+C0304;Roads & Transport;Wood, Beck and Wallace; R15 802 852 ; R16 338 067 ;N;Y;Completed;Delayed;2;Y;R535 215
+C0305;Water & Sanitation;Paul-Rosales; R47 976 337 ; R38 475 870 ;N;Y;Completed;Cancelled;1;N;R0
+C0306;Housing;Baker, Bonilla and Kim; R36 793 176 ; R33 176 032 ;N;Y;Completed;Cancelled;1;N;R0
+C0307;Housing;Frye-Weaver; R4 373 445 ; R3 551 191 ;N;Y;Planning;Cancelled;1;N;R0
+C0308;Water & Sanitation;Holt and Sons; R6 789 142 ; R5 942 805 ;N;Y;Completed;Cancelled;1;N;R0
+C0309;Roads & Transport;Clark-Cruz; R900 101 ; R783 861 ;N;Y;Completed;On track;0;N;R0
+C0310;Housing;Crawford, Olsen and Smith; R30 655 353 ; R24 739 065 ;N;Y;Completed;Cancelled;1;N;R0
+C0311;Water & Sanitation;Gutierrez-Sanchez; R22 579 150 ; R18 337 765 ;N;Y;Planning;Cancelled;1;N;R0
+C0312;Roads & Transport;Reeves PLC; R20 021 696 ; R23 552 524 ;N;Y;Planning;Delayed;2;Y;R3 530 828
+C0313;Water & Sanitation;Parker, Abbott and Taylor; R20 817 501 ; R24 976 119 ;Y;Y;Execution;Delayed;3;Y;R4 158 618
+C0314;Housing;Sutton, Brown and Gibson; R2 925 896 ; R3 221 326 ;Y;Y;Planning;Cancelled;3;Y;R295 430
+C0315;Housing;Leonard-Reynolds; R15 199 203 ; R16 811 478 ;N;Y;Completed;On track;1;Y;R1 612 275
+C0316;Electricity;Odom, Anthony and Lopez; R46 273 665 ; R51 786 036 ;N;Y;Planning;Cancelled;2;Y;R5 512 371
+C0317;Housing;Wood, Beck and Wallace; R46 631 927 ; R49 412 582 ;N;Y;Completed;On track;1;Y;R2 780 655
+C0318;Housing;Lee, Roberts and Lee; R2 061 977 ; R2 223 196 ;N;Y;Planning;On track;1;Y;R161 219
+C0319;Housing;Lawrence-Coleman; R13 711 312 ; R13 406 479 ;Y;Y;Execution;Delayed;2;Y;R0
+C0320;Roads & Transport;Cunningham, Fisher and Smith; R8 479 341 ; R8 355 522 ;N;Y;Planning;Delayed;1;N;R0
+C0321;Roads & Transport;Sherman, Freeman and Tyler; R14 946 767 ; R17 423 365 ;N;N;Completed;On track;2;Y;R2 476 598
+C0322;Water & Sanitation;Gutierrez-Sanchez; R36 035 364 ; R37 190 980 ;N;Y;Execution;Cancelled;2;Y;R1 155 616
+C0323;Roads & Transport;Lawrence-Coleman; R11 005 942 ; R11 966 201 ;N;N;Execution;Cancelled;3;Y;R960 259
+C0324;Roads & Transport;Vargas Inc; R35 653 686 ; R41 311 416 ;Y;Y;Execution;On track;2;Y;R5 657 730
+C0325;Housing;Rogers Inc; R22 260 074 ; R19 563 525 ;N;Y;Planning;On track;0;N;R0
+C0326;Housing;Leonard-Reynolds; R43 400 173 ; R39 177 797 ;N;Y;Execution;Cancelled;1;N;R0
+C0327;Roads & Transport;Heath, Caldwell and Cruz; R26 517 902 ; R27 376 361 ;Y;Y;Execution;On track;2;Y;R858 459
+C0328;Housing;Long, Haney and Perry; R39 958 177 ; R38 576 408 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0329;Water & Sanitation;Chavez, Reed and Cox; R39 797 758 ; R44 570 004 ;Y;Y;Completed;Delayed;3;Y;R4 772 246
+C0330;Roads & Transport;Richardson Inc; R20 768 329 ; R24 238 737 ;N;N;Planning;Cancelled;3;Y;R3 470 408
+C0331;Roads & Transport;Clark-Cruz; R14 052 821 ; R11 486 284 ;N;Y;Completed;On track;0;N;R0
+C0332;Waste Management;Palmer and Sons; R33 866 262 ; R34 071 832 ;N;Y;Completed;Cancelled;2;Y;R205 570
+C0333;Electricity;Lawrence-Coleman; R25 787 822 ; R24 870 069 ;N;Y;Planning;Cancelled;1;N;R0
+C0334;Water & Sanitation;Welch-Gibson; R41 638 255 ; R37 568 448 ;N;Y;Execution;On track;0;N;R0
+C0335;Waste Management;Fowler, Nelson and Oliver; R31 986 947 ; R34 130 710 ;Y;Y;Completed;On track;2;Y;R2 143 763
+C0336;Water & Sanitation;Parker, Abbott and Taylor; R8 989 782 ; R7 795 990 ;N;Y;Execution;Cancelled;1;N;R0
+C0337;Housing;Odom, Anthony and Lopez; R17 744 180 ; R21 628 573 ;N;Y;Planning;On track;1;Y;R3 884 393
+C0338;Waste Management;Fowler, Nelson and Oliver; R29 665 896 ; R30 786 986 ;N;Y;Completed;Cancelled;2;Y;R1 121 090
+C0339;Roads & Transport;Berg-Alvarez; R49 233 346 ; R52 696 247 ;N;Y;Execution;Delayed;2;Y;R3 462 901
+C0340;Roads & Transport;Lane PLC; R24 868 424 ; R29 755 128 ;Y;N;Execution;On track;3;Y;R4 886 704
+C0341;Housing;Henderson-Miller; R24 103 801 ; R28 013 676 ;N;Y;Planning;On track;1;Y;R3 909 875
+C0342;Housing;Jimenez-Roberts; R20 135 300 ; R17 653 562 ;N;Y;Execution;On track;0;N;R0
+C0343;Housing;Mathis, Bailey and Lyons; R48 402 504 ; R47 287 502 ;N;Y;Execution;Cancelled;1;N;R0
+C0344;Water & Sanitation;Vargas Inc; R32 018 507 ; R32 530 955 ;N;Y;Execution;Cancelled;2;Y;R512 448
+C0345;Roads & Transport;Lee, Roberts and Lee; R7 434 901 ; R7 306 600 ;Y;N;Execution;Cancelled;3;Y;R0
+C0346;Roads & Transport;Crawford, Olsen and Smith; R15 031 115 ; R15 378 534 ;N;Y;Completed;On track;1;Y;R347 419
+C0347;Housing;Reeves PLC; R10 193 205 ; R12 059 072 ;Y;Y;Completed;Cancelled;3;Y;R1 865 867
+C0348;Roads & Transport;Wood, Beck and Wallace; R19 761 007 ; R19 149 910 ;N;N;Planning;Cancelled;2;Y;R0
+C0349;Water & Sanitation;Lawrence-Coleman; R17 185 839 ; R19 216 861 ;N;Y;Execution;Cancelled;2;Y;R2 031 022
+C0350;Roads & Transport;Johnson-Wilson; R37 427 195 ; R30 241 568 ;N;Y;Execution;On track;0;N;R0
+C0351;Electricity;Reed-White; R39 964 640 ; R40 299 671 ;N;N;Planning;Delayed;3;Y;R335 031
+C0352;Housing;Miller PLC; R22 736 262 ; R23 722 892 ;N;Y;Planning;On track;1;Y;R986 630
+C0353;Waste Management;Castro, Trevino and Young; R2 715 804 ; R3 917 554 ;N;Y;Execution;Delayed;2;Y;R1 201 750
+C0354;Roads & Transport;Cunningham, Fisher and Smith; R40 978 420 ; R36 701 179 ;N;Y;Completed;Cancelled;1;N;R0
+C0355;Waste Management;Gonzalez PLC; R41 772 086 ; R48 010 106 ;Y;Y;Completed;Cancelled;3;Y;R6 238 020
+C0356;Electricity;Gonzalez PLC; R33 527 797 ; R32 066 558 ;N;Y;Completed;On track;0;N;R0
+C0357;Housing;Wood, Beck and Wallace; R36 532 549 ; R34 788 094 ;N;Y;Execution;Delayed;1;N;R0
+C0358;Water & Sanitation;Heath, Caldwell and Cruz; R38 971 173 ; R34 481 420 ;N;Y;Execution;On track;0;N;R0
+C0359;Housing;Gutierrez-Sanchez; R31 319 362 ; R33 761 659 ;N;Y;Planning;Delayed;2;Y;R2 442 297
+C0360;Water & Sanitation;Sherman, Freeman and Tyler; R1 590 687 ; R1 638 511 ;N;Y;Execution;Cancelled;2;Y;R47 824
+C0361;Roads & Transport;Fry-Griffin; R11 640 237 ; R13 494 580 ;N;Y;Execution;Delayed;2;Y;R1 854 343
+C0362;Electricity;Miller PLC; R34 623 048 ; R36 926 268 ;Y;Y;Execution;On track;2;Y;R2 303 220
+C0363;Electricity;Johnson-Wilson; R26 331 747 ; R31 209 598 ;N;Y;Completed;Cancelled;2;Y;R4 877 851
+C0364;Water & Sanitation;Fry-Griffin; R45 724 927 ; R53 707 569 ;N;Y;Execution;On track;1;Y;R7 982 642
+C0365;Electricity;Leonard-Reynolds; R33 165 406 ; R29 398 322 ;N;Y;Planning;On track;0;N;R0
+C0366;Waste Management;Finley, Burch and Reed; R49 062 002 ; R50 326 645 ;Y;Y;Completed;On track;2;Y;R1 264 643
+C0367;Electricity;Paul-Rosales; R1 073 181 ; R883 348 ;N;Y;Planning;Cancelled;1;N;R0
+C0368;Water & Sanitation;Long, Haney and Perry; R20 737 778 ; R17 209 285 ;N;Y;Planning;On track;0;N;R0
+C0369;Waste Management;Palmer and Sons; R25 403 302 ; R20 955 608 ;N;Y;Planning;On track;0;N;R0
+C0370;Water & Sanitation;Castro, Trevino and Young; R6 414 768 ; R5 698 373 ;Y;Y;Planning;Delayed;2;Y;R0
+C0371;Electricity;Lee, Roberts and Lee; R18 421 829 ; R15 700 632 ;N;Y;Execution;On track;0;N;R0
+C0372;Electricity;Palmer and Sons; R30 690 972 ; R31 004 076 ;N;Y;Planning;On track;1;Y;R313 104
+C0373;Housing;Clark, Lucas and Abbott; R15 905 013 ; R14 305 479 ;Y;Y;Planning;Cancelled;2;Y;R0
+C0374;Water & Sanitation;Rogers Inc; R39 131 525 ; R43 205 740 ;Y;Y;Execution;Delayed;3;Y;R4 074 215
+C0375;Waste Management;Lee, Roberts and Lee; R47 346 348 ; R65 951 624 ;N;Y;Planning;Delayed;2;Y;R18 605 276
+C0376;Waste Management;Clark-Cruz; R27 809 612 ; R41 634 516 ;N;Y;Completed;On track;1;Y;R13 824 904
+C0377;Waste Management;Welch-Gibson; R2 707 411 ; R2 327 548 ;Y;Y;Execution;Cancelled;2;Y;R0
+C0378;Water & Sanitation;Fry-Griffin; R39 196 943 ; R38 820 936 ;N;Y;Execution;Delayed;1;N;R0
+C0379;Housing;Sherman, Freeman and Tyler; R27 251 781 ; R32 224 927 ;Y;N;Planning;Delayed;4;Y;R4 973 146
+C0380;Housing;Henderson-Miller; R10 588 951 ; R11 385 810 ;N;Y;Planning;Delayed;2;Y;R796 859
+C0381;Waste Management;Sutton, Brown and Gibson; R36 366 225 ; R69 874 413 ;N;Y;Planning;On track;1;Y;R33 508 188
+C0382;Roads & Transport;Wood, Beck and Wallace; R13 431 233 ; R13 163 276 ;N;Y;Completed;Cancelled;1;N;R0
+C0383;Waste Management;Guzman-Miller; R12 052 983 ; R10 151 955 ;N;Y;Execution;Delayed;1;N;R0
+C0384;Waste Management;Clark, Lucas and Abbott; R4 205 223 ; R5 331 523 ;N;N;Execution;Delayed;3;Y;R1 126 300
+C0385;Waste Management;Chavez, Reed and Cox; R37 709 879 ; R30 704 452 ;N;Y;Execution;On track;0;N;R0
+C0386;Water & Sanitation;Johnson-Wilson; R37 989 950 ; R35 706 043 ;N;Y;Completed;Cancelled;1;N;R0
+C0387;Electricity;Moyer-Robinson; R47 737 042 ; R40 068 480 ;N;Y;Execution;On track;0;N;R0
+C0388;Housing;Paul-Rosales; R10 501 929 ; R13 292 683 ;N;Y;Execution;Delayed;2;Y;R2 790 754
+C0389;Housing;Martin LLC; R15 553 951 ; R18 515 366 ;N;N;Planning;Delayed;3;Y;R2 961 415
+C0390;Housing;Baker, Bonilla and Kim; R23 350 723 ; R25 915 881 ;N;Y;Completed;Delayed;2;Y;R2 565 158
+C0391;Roads & Transport;Sutton, Brown and Gibson; R46 061 405 ; R42 785 803 ;Y;Y;Completed;Delayed;2;Y;R0
+C0392;Water & Sanitation;Harris Inc; R19 777 953 ; R20 430 013 ;N;Y;Planning;On track;1;Y;R652 060
+C0393;Housing;Crawford, Olsen and Smith; R1 081 883 ; R884 433 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0394;Roads & Transport;Castro, Trevino and Young; R5 518 952 ; R5 369 006 ;N;Y;Completed;On track;0;N;R0
+C0395;Waste Management;Jimenez-Roberts; R24 048 053 ; R28 168 134 ;N;Y;Completed;Delayed;2;Y;R4 120 081
+C0396;Water & Sanitation;Gonzalez PLC; R22 372 887 ; R23 907 263 ;N;Y;Execution;Cancelled;2;Y;R1 534 376
+C0397;Housing;Martin LLC; R36 313 515 ; R32 714 715 ;N;Y;Planning;Delayed;1;N;R0
+C0398;Waste Management;Welch-Gibson; R41 935 879 ; R36 578 060 ;Y;Y;Execution;On track;1;Y;R0
+C0399;Waste Management;Sanchez-Jenkins; R13 789 493 ; R16 202 036 ;Y;Y;Planning;On track;2;Y;R2 412 543
+C0400;Housing;Clark-Cruz; R28 999 868 ; R24 265 591 ;N;Y;Planning;Delayed;1;N;R0
+C0401;Waste Management;Fowler, Nelson and Oliver; R43 269 174 ; R47 298 426 ;N;Y;Planning;Delayed;2;Y;R4 029 252
+C0402;Waste Management;Clark-Cruz; R36 008 279 ; R30 332 376 ;Y;N;Execution;Cancelled;3;Y;R0
+C0403;Waste Management;Wood, Beck and Wallace; R48 595 982 ; R47 309 170 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0404;Waste Management;Reeves PLC; R31 612 427 ; R37 831 349 ;Y;Y;Completed;Cancelled;3;Y;R6 218 922
+C0405;Roads & Transport;Reeves PLC; R13 826 569 ; R12 780 887 ;N;Y;Planning;Delayed;1;N;R0
+C0406;Roads & Transport;Paul-Rosales; R24 165 754 ; R22 767 857 ;N;Y;Execution;On track;0;N;R0
+C0407;Electricity;Sutton, Brown and Gibson; R22 561 013 ; R25 628 985 ;N;N;Completed;Cancelled;3;Y;R3 067 972
+C0408;Housing;Henderson-Miller; R21 353 537 ; R22 877 144 ;N;Y;Planning;Cancelled;2;Y;R1 523 607
+C0409;Water & Sanitation;Harris Inc; R6 839 013 ; R8 196 787 ;N;Y;Completed;Cancelled;2;Y;R1 357 774
+C0410;Electricity;Clark-Ward; R14 363 315 ; R12 738 589 ;Y;Y;Execution;Delayed;2;Y;R0
+C0411;Roads & Transport;Berg-Alvarez; R8 174 037 ; R6 549 752 ;N;Y;Execution;Delayed;1;N;R0
+C0412;Roads & Transport;Richardson Inc; R43 381 526 ; R43 556 955 ;N;N;Completed;Cancelled;3;Y;R175 429
+C0413;Water & Sanitation;Fry-Griffin; R28 827 993 ; R29 527 476 ;N;Y;Planning;On track;1;Y;R699 483
+C0414;Waste Management;Fry-Griffin; R34 949 361 ; R28 280 083 ;N;Y;Completed;On track;0;N;R0
+C0415;Roads & Transport;Gutierrez-Sanchez; R36 069 234 ; R52 927 656 ;N;Y;Completed;Delayed;2;Y;R16 858 422
+C0416;Housing;Chavez, Reed and Cox; R31 732 286 ; R31 989 908 ;N;N;Execution;Delayed;3;Y;R257 622
+C0417;Roads & Transport;Finley, Burch and Reed; R4 955 920 ; R4 140 374 ;N;Y;Completed;On track;0;N;R0
+C0418;Roads & Transport;Moyer-Robinson; R5 632 410 ; R6 158 738 ;N;Y;Planning;Delayed;2;Y;R526 328
+C0419;Waste Management;Gomez, Gentry and Anthony; R48 106 403 ; R41 915 156 ;N;Y;Completed;Cancelled;1;N;R0
+C0420;Roads & Transport;Reed-White; R38 037 226 ; R44 888 685 ;N;Y;Planning;Delayed;2;Y;R6 851 459
+C0421;Waste Management;Fry-Griffin; R46 901 033 ; R38 012 287 ;Y;Y;Planning;On track;1;Y;R0
+C0422;Roads & Transport;Finley, Burch and Reed; R32 079 500 ; R37 592 258 ;N;N;Planning;Delayed;3;Y;R5 512 758
+C0423;Roads & Transport;Baker, Bonilla and Kim; R38 660 290 ; R44 424 233 ;N;Y;Planning;On track;1;Y;R5 763 943
+C0424;Housing;Lane PLC; R24 874 704 ; R29 226 317 ;N;Y;Execution;On track;1;Y;R4 351 613
+C0425;Electricity;Clark-Ward; R12 843 293 ; R12 825 112 ;N;Y;Completed;Cancelled;1;N;R0
+C0426;Electricity;Sanchez-Jenkins; R44 790 216 ; R46 765 019 ;Y;Y;Completed;Cancelled;3;Y;R1 974 803
+C0427;Roads & Transport;Henderson-Miller; R3 128 631 ; R2 519 677 ;N;N;Execution;Cancelled;2;Y;R0
+C0428;Water & Sanitation;Moyer-Robinson; R21 736 437 ; R19 536 525 ;N;Y;Planning;Delayed;1;N;R0
+C0429;Water & Sanitation;Baker, Bonilla and Kim; R27 264 495 ; R26 488 949 ;N;Y;Completed;Delayed;1;N;R0
+C0430;Waste Management;Contreras and Sons; R666 088 ; R541 826 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0431;Housing;Parker, Abbott and Taylor; R9 422 004 ; R9 086 940 ;N;Y;Planning;Delayed;1;N;R0
+C0432;Water & Sanitation;Baker, Bonilla and Kim; R26 721 905 ; R27 238 392 ;Y;Y;Planning;Cancelled;3;Y;R516 487
+C0433;Housing;Heath, Caldwell and Cruz; R12 224 052 ; R18 764 343 ;N;Y;Execution;On track;1;Y;R6 540 291
+C0434;Housing;Crawford, Olsen and Smith; R46 489 268 ; R49 356 253 ;Y;Y;Planning;Delayed;3;Y;R2 866 985
+C0435;Waste Management;Contreras and Sons; R46 517 810 ; R54 835 864 ;N;Y;Completed;On track;1;Y;R8 318 054
+C0436;Housing;Welch-Gibson; R27 631 424 ; R24 595 470 ;N;Y;Completed;Delayed;1;N;R0
+C0437;Electricity;Paul-Rosales; R33 454 320 ; R29 806 588 ;N;Y;Planning;On track;0;N;R0
+C0438;Waste Management;Lawrence-Coleman; R44 982 342 ; R45 765 722 ;Y;Y;Planning;Cancelled;3;Y;R783 380
+C0439;Waste Management;Williams-Moore; R1 479 904 ; R1 267 365 ;N;Y;Execution;Delayed;1;N;R0
+C0440;Electricity;Holt and Sons; R16 474 601 ; R15 893 150 ;N;Y;Planning;On track;0;N;R0
+C0441;Roads & Transport;Williams-Moore; R24 667 790 ; R27 691 110 ;N;N;Planning;Cancelled;3;Y;R3 023 320
+C0442;Electricity;Mcconnell Ltd; R21 695 966 ; R20 305 492 ;N;Y;Completed;On track;0;N;R0
+C0443;Electricity;Richardson Inc; R36 285 155 ; R36 566 522 ;N;Y;Completed;Delayed;2;Y;R281 367
+C0444;Housing;Mcconnell Ltd; R19 778 933 ; R17 844 500 ;N;Y;Completed;Cancelled;1;N;R0
+C0445;Housing;Sherman, Freeman and Tyler; R3 233 211 ; R2 621 704 ;Y;Y;Completed;Cancelled;2;Y;R0
+C0446;Waste Management;Baker, Bonilla and Kim; R12 856 935 ; R12 294 975 ;N;Y;Completed;Delayed;1;N;R0
+C0447;Electricity;Gutierrez-Sanchez; R41 345 272 ; R34 621 008 ;N;Y;Planning;Delayed;1;N;R0
+C0448;Housing;Lawrence-Coleman; R33 191 145 ; R49 300 028 ;N;Y;Execution;Delayed;2;Y;R16 108 883
+C0449;Waste Management;Fry-Griffin; R4 563 158 ; R4 007 987 ;N;Y;Execution;Cancelled;1;N;R0
+C0450;Water & Sanitation;Welch-Gibson; R43 491 803 ; R48 593 588 ;N;Y;Execution;Delayed;2;Y;R5 101 785
+C0451;Water & Sanitation;Fry-Griffin; R28 280 762 ; R33 750 504 ;Y;Y;Execution;Delayed;3;Y;R5 469 742
+C0452;Water & Sanitation;Johnson-Wilson; R18 646 183 ; R19 796 969 ;Y;Y;Planning;Cancelled;3;Y;R1 150 786
+C0453;Waste Management;Sanchez-Jenkins; R25 539 173 ; R29 184 879 ;Y;Y;Execution;Delayed;3;Y;R3 645 706
+C0454;Waste Management;Jimenez-Roberts; R30 881 302 ; R29 865 442 ;N;Y;Completed;On track;0;N;R0
+C0455;Housing;Leonard-Reynolds; R41 637 804 ; R49 916 701 ;N;Y;Completed;On track;1;Y;R8 278 897
+C0456;Roads & Transport;Chavez, Reed and Cox; R20 829 471 ; R34 322 897 ;N;Y;Execution;Cancelled;2;Y;R13 493 426
+C0457;Electricity;Fry-Griffin; R28 566 841 ; R50 997 444 ;Y;Y;Execution;On track;2;Y;R22 430 603
+C0458;Roads & Transport;Guzman-Miller; R28 290 067 ; R23 885 285 ;N;Y;Planning;Cancelled;1;N;R0
+C0459;Electricity;Reed-White; R45 931 617 ; R45 183 210 ;N;Y;Planning;Cancelled;1;N;R0
+C0460;Housing;Gutierrez-Sanchez; R633 634 ; R640 080 ;N;N;Completed;Cancelled;3;Y;R6 446
+C0461;Waste Management;Berg-Alvarez; R38 988 665 ; R34 931 880 ;Y;Y;Execution;Delayed;2;Y;R0
+C0462;Roads & Transport;Clark-Ward; R16 250 865 ; R17 233 376 ;N;Y;Execution;Delayed;2;Y;R982 511
+C0463;Waste Management;Fry-Griffin; R40 132 875 ; R47 824 018 ;N;N;Completed;Cancelled;3;Y;R7 691 143
+C0464;Roads & Transport;Henderson-Miller; R18 579 375 ; R17 203 903 ;Y;Y;Execution;On track;1;Y;R0
+C0465;Waste Management;Sherman, Freeman and Tyler; R46 837 861 ; R41 726 530 ;N;Y;Execution;Delayed;1;N;R0
+C0466;Roads & Transport;Martin LLC; R9 793 374 ; R11 228 638 ;N;Y;Completed;Cancelled;2;Y;R1 435 264
+C0467;Electricity;Paul-Rosales; R25 893 044 ; R37 367 730 ;N;Y;Planning;Cancelled;2;Y;R11 474 686
+C0468;Electricity;Rose LLC; R1 988 806 ; R1 638 055 ;N;Y;Execution;Cancelled;1;N;R0
+C0469;Housing;Castro, Trevino and Young; R909 178 ; R767 706 ;N;Y;Completed;Cancelled;1;N;R0
+C0470;Water & Sanitation;Welch-Gibson; R22 384 899 ; R19 061 625 ;N;Y;Completed;Delayed;1;N;R0
+C0471;Roads & Transport;Castro, Trevino and Young; R44 424 346 ; R36 286 244 ;N;Y;Completed;Cancelled;1;N;R0
+C0472;Waste Management;Harris Inc; R10 639 669 ; R9 755 377 ;N;Y;Completed;Cancelled;1;N;R0
+C0473;Housing;Sanchez-Jenkins; R34 596 200 ; R41 263 561 ;N;Y;Execution;On track;1;Y;R6 667 361
+C0474;Roads & Transport;Welch-Gibson; R14 007 579 ; R12 783 435 ;N;N;Planning;On track;1;Y;R0
+C0475;Roads & Transport;Richardson Inc; R2 509 381 ; R2 076 102 ;N;N;Execution;On track;1;Y;R0
+C0476;Electricity;Castro, Trevino and Young; R20 160 832 ; R18 558 168 ;N;Y;Planning;On track;0;N;R0
+C0477;Roads & Transport;Crawford, Olsen and Smith; R13 174 362 ; R13 695 056 ;Y;Y;Completed;Cancelled;3;Y;R520 694
+C0478;Waste Management;Reed-White; R9 814 177 ; R10 180 134 ;N;Y;Completed;Delayed;2;Y;R365 957
+C0479;Waste Management;Castro, Trevino and Young; R3 725 654 ; R4 229 589 ;N;Y;Completed;Delayed;2;Y;R503 935
+C0480;Electricity;Berg-Alvarez; R9 341 354 ; R10 670 427 ;N;N;Planning;Cancelled;3;Y;R1 329 073
+C0481;Waste Management;Berg-Alvarez; R14 052 275 ; R13 986 929 ;N;Y;Completed;Delayed;1;N;R0
+C0482;Water & Sanitation;Gonzalez PLC; R6 094 376 ; R6 897 095 ;N;Y;Execution;Cancelled;2;Y;R802 719
+C0483;Electricity;Gutierrez-Sanchez; R7 922 636 ; R6 598 627 ;N;Y;Completed;Delayed;1;N;R0
+C0484;Housing;Clark-Cruz; R35 204 616 ; R30 484 728 ;Y;Y;Completed;On track;1;Y;R0
+C0485;Roads & Transport;Rogers Inc; R33 369 285 ; R36 073 982 ;N;Y;Planning;Delayed;2;Y;R2 704 697
+C0486;Waste Management;Gutierrez-Sanchez; R45 088 955 ; R50 260 664 ;N;Y;Execution;Delayed;2;Y;R5 171 709
+C0487;Housing;Sanchez-Jenkins; R25 628 279 ; R28 125 436 ;N;Y;Completed;Delayed;2;Y;R2 497 157
+C0488;Electricity;Williams-Moore; R36 316 069 ; R29 095 287 ;Y;Y;Completed;On track;1;Y;R0
+C0489;Roads & Transport;Fry-Griffin; R4 954 042 ; R4 511 773 ;N;Y;Completed;Delayed;1;N;R0
+C0490;Roads & Transport;Jimenez-Roberts; R37 026 887 ; R36 248 850 ;N;Y;Planning;Cancelled;1;N;R0
+C0491;Waste Management;Miller PLC; R24 828 252 ; R29 946 130 ;N;N;Execution;On track;2;Y;R5 117 878
+C0492;Electricity;Long, Haney and Perry; R15 811 072 ; R17 724 753 ;N;Y;Execution;Cancelled;2;Y;R1 913 681
+C0493;Electricity;Moyer-Robinson; R42 528 797 ; R47 916 041 ;N;Y;Planning;On track;1;Y;R5 387 244
+C0494;Housing;Rose LLC; R1 600 948 ; R1 605 694 ;N;Y;Planning;Delayed;2;Y;R4 746
+C0495;Water & Sanitation;Contreras and Sons; R36 357 426 ; R42 602 565 ;Y;Y;Completed;Delayed;3;Y;R6 245 139
+C0496;Electricity;Clark-Ward; R47 818 418 ; R55 614 943 ;N;Y;Planning;Delayed;2;Y;R7 796 525
+C0497;Electricity;Reeves PLC; R48 591 820 ; R57 416 738 ;N;Y;Execution;On track;1;Y;R8 824 918
+C0498;Roads & Transport;Sutton, Brown and Gibson; R9 135 949 ; R12 845 927 ;Y;Y;Planning;On track;2;Y;R3 709 978
+C0499;Roads & Transport;Rogers Inc; R28 851 505 ; R27 510 935 ;N;Y;Completed;On track;0;N;R0
+C0500;Housing;Gutierrez-Sanchez; R11 144 590 ; R12 264 300 ;Y;N;Completed;On track;3;Y;R1 119 710
