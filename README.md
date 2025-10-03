@@ -55,7 +55,10 @@ Preprocessing included: Standardizing numeric fields, validating contract IDs, l
   
   • 315 (63%) were flagged as Bad due to missing MBD documents, overspending, delays, or premature completion.
 
-Financial overview:
+<img src="Project%202%20-%20Municipality%20Risk%20Assessment/Images/Good_vs_Bad_Donut.PNG" width="400">
+
+
+**Financial overview:**
 
 • Budgeted: R12.60 bn
 
@@ -63,7 +66,7 @@ Financial overview:
 
   • Overspend: R1.19 bn
 
-Top 5 Bad vendors by overspending:
+**Top 5 Bad vendors by overspending:**
 
 • Clark-Ward – R94,696,310
 
@@ -75,7 +78,9 @@ Top 5 Bad vendors by overspending:
 
 • Lee, Roberts and Lee – R37,941,482
 
-Top 5 Good vendors by spending:
+<img src="Project%202%20-%20Municipality%20Risk%20Assessment/Images/Top_5_Bad_Vendors.PNG" width="400">
+
+**Top 5 Good vendors by spending:**
 
 • Clark-Cruz – R219,627,475
 
@@ -87,55 +92,53 @@ Top 5 Good vendors by spending:
 
 • Guzman-Miller – R168,108,850
 
+<img src="Project%202%20-%20Municipality%20Risk%20Assessment/Images/Top_5_Good_Vendors.PNG" width="400">
+
 ## Insights Deep Dive
 
-Contract Classification:
+**Contract Classification:**
 
 • 63% of contracts were flagged as Bad.
 
 • Good contracts had zero irregular spend and consistently met approved budgets.
 
-<img width="1062" height="516" alt="Good vs Bad Contracts Donut Placeholder" src="ADD_YOUR_IMAGE_HERE" />
-
-Financial Exposure:
+**Financial Exposure:**
 
 • Overspending totaled R1.19 bn, concentrated among a small group of vendors.
 
 • Departments with frequent deviations and missing MBD documents contributed disproportionately to financial risk.
 
-<img width="930" height="456" alt="Budget vs Actual Spend Placeholder" src="ADD_YOUR_IMAGE_HERE" />
-
-Vendor Risk:
+**Vendor Risk:**
 
 • Top overspending vendors represent the largest share of Bad contracts.
 
 • High-performing vendors delivered large budgets without operational or financial flags.
 
-<img width="941" height="323" alt="Top Vendors Placeholder" src="ADD_YOUR_IMAGE_HERE" />
-
 ## Takeaways & Recommendations
 
-Systemic Oversight Gaps
+**Systemic Oversight Gaps**
 
 Takeaway: R1.19 bn overspent (9% above budget) across flagged contracts indicates weak financial controls.
 Recommendation: Implement tighter budget enforcement, automated spend tracking, and escalation protocols when variance exceeds 5%.
 
-Vendor Risk Concentration
+<img src="Project%202%20-%20Municipality%20Risk%20Assessment/Images/Total_Spend_By_Dept.PNG" width="600">
+
+**Vendor Risk Concentration**
 
 Takeaway: A small group of vendors account for most overspending (Clark-Ward alone: R94m).
 Recommendation: Conduct enhanced due diligence and audits on repeat overspend vendors; consider blacklist/review procedures.
 
-Contract Management Failures
+**Contract Management Failures**
 
 Takeaway: 63% of contracts had operational red flags (missing documents, delays, premature completion).
 Recommendation: Enforce MBD documentation at award, implement milestone reporting, and verify completion independently.
 
-High-Performing Vendors Exist
+**High-Performing Vendors Exist**
 
 Takeaway: Vendors like Clark-Cruz, Cunningham, and Holt managed large budgets successfully.
 Recommendation: Establish a “preferred vendor” program and benchmark practices for underperforming vendors.
 
-Strategic Impact
+**Strategic Impact**
 
 Takeaway: Bad contracts erode trust, drain budgets, and reduce service delivery.
 Recommendation: Maintain a real-time audit dashboard to monitor risk, overspending, and vendor exposure proactively.
